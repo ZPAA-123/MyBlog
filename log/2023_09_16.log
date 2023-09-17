@@ -1,0 +1,956 @@
+2023-09-16 11:00:29.508267 [INFO] : ========== Server init ==========
+2023-09-16 11:00:29.508314 [INFO] : Port:1316, OpenLinger: false
+2023-09-16 11:00:29.508475 [INFO] : Listen Mode: ET, OpenConn Mode: ET
+2023-09-16 11:00:29.508486 [INFO] : LogSys level: 0
+2023-09-16 11:00:29.508492 [INFO] : srcDir: /home/ubuntu/zp/WebServer/resources/
+2023-09-16 11:00:29.508558 [INFO] : SqlConnPool num: 4, ThreadPool num: 2
+2023-09-16 11:00:29.508617 [INFO] : ========== Server start ==========
+2023-09-16 11:00:57.871180 [INFO] : Client[10](114.132.203.61:59989) in, userCount:1
+2023-09-16 11:00:57.871272 [INFO] : Client[10] in!
+2023-09-16 11:00:57.871791 [DEBUG]: [GET], [/assets/img/dog.png], [1.1]
+2023-09-16 11:00:57.871822 [DEBUG]: /assets/img/dog.png
+2023-09-16 11:00:57.871856 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/dog.png
+2023-09-16 11:00:57.871872 [DEBUG]: filesize:3002, 2  to 3087
+2023-09-16 11:00:57.871954 [INFO] : Client[10] quit!
+2023-09-16 11:00:57.872027 [INFO] : Client[10](114.132.203.61:59989) quit, UserCount:0
+2023-09-16 11:00:57.981377 [INFO] : Client[10](157.148.40.58:6334) in, userCount:1
+2023-09-16 11:00:57.981476 [INFO] : Client[10] in!
+2023-09-16 11:00:57.984577 [DEBUG]: [GET], [/assets/img/dog.png], [1.1]
+2023-09-16 11:00:57.984640 [DEBUG]: /assets/img/dog.png
+2023-09-16 11:00:57.984671 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/dog.png
+2023-09-16 11:00:57.984692 [DEBUG]: filesize:3002, 2  to 3087
+2023-09-16 11:00:57.984779 [INFO] : Client[10] quit!
+2023-09-16 11:00:57.984830 [INFO] : Client[10](157.148.40.58:6334) quit, UserCount:0
+2023-09-16 11:01:58.042743 [INFO] : Client[10] quit!
+2023-09-16 11:02:21.284121 [INFO] : Client[10](183.210.8.8:55832) in, userCount:1
+2023-09-16 11:02:21.284515 [INFO] : Client[10] in!
+2023-09-16 11:02:21.285418 [INFO] : Client[11](183.210.8.8:55576) in, userCount:2
+2023-09-16 11:02:21.285478 [INFO] : Client[11] in!
+2023-09-16 11:02:21.285589 [DEBUG]: [GET], [/assets/fonts/font-awesome.min.css], [1.1]
+2023-09-16 11:02:21.285618 [DEBUG]: /assets/fonts/font-awesome.min.css
+2023-09-16 11:02:21.285652 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/fonts/font-awesome.min.css
+2023-09-16 11:02:21.285682 [DEBUG]: filesize:31000, 2  to 31123
+2023-09-16 11:02:21.286435 [INFO] : Client[12](183.210.8.8:56600) in, userCount:3
+2023-09-16 11:02:21.286448 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-16 11:02:21.286524 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-16 11:02:21.286569 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-16 11:02:21.286624 [DEBUG]: filesize:242090, 2  to 242214
+2023-09-16 11:02:21.286677 [INFO] : Client[12] in!
+2023-09-16 11:02:21.286775 [INFO] : Client[13](183.210.8.8:56344) in, userCount:4
+2023-09-16 11:02:21.286813 [INFO] : Client[13] in!
+2023-09-16 11:02:21.287533 [DEBUG]: [GET], [/assets/js/grayscale.js], [1.1]
+2023-09-16 11:02:21.287571 [DEBUG]: /assets/js/grayscale.js
+2023-09-16 11:02:21.287600 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/js/grayscale.js
+2023-09-16 11:02:21.287629 [DEBUG]: filesize:1201, 2  to 1330
+2023-09-16 11:02:21.288382 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-16 11:02:21.288424 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-16 11:02:21.288455 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-16 11:02:21.288480 [DEBUG]: filesize:80620, 2  to 80750
+2023-09-16 11:02:21.309604 [INFO] : Client[14](183.210.8.8:57880) in, userCount:5
+2023-09-16 11:02:21.309713 [INFO] : Client[14] in!
+2023-09-16 11:02:21.492582 [DEBUG]: [GET], [/assets/img/intro-bg.jpg], [1.1]
+2023-09-16 11:02:21.492662 [DEBUG]: /assets/img/intro-bg.jpg
+2023-09-16 11:02:21.492808 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/intro-bg.jpg
+2023-09-16 11:02:21.492837 [DEBUG]: filesize:88321, 2  to 88445
+2023-09-16 11:02:21.494771 [DEBUG]: [GET], [/assets/img/downloads-bg.jpg], [1.1]
+2023-09-16 11:02:21.494829 [DEBUG]: /assets/img/downloads-bg.jpg
+2023-09-16 11:02:21.494880 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/downloads-bg.jpg
+2023-09-16 11:02:21.494905 [DEBUG]: filesize:110981, 2  to 111106
+2023-09-16 11:02:21.538607 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff2?v=4.7.0], [1.1]
+2023-09-16 11:02:21.538738 [DEBUG]: /assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+2023-09-16 11:02:21.538831 [DEBUG]: filesize:0, 1  to 254
+2023-09-16 11:02:21.577800 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff?v=4.7.0], [1.1]
+2023-09-16 11:02:21.577883 [DEBUG]: /assets/fonts/fontawesome-webfont.woff?v=4.7.0
+2023-09-16 11:02:21.577958 [DEBUG]: filesize:0, 1  to 254
+2023-09-16 11:02:21.600047 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.ttf?v=4.7.0], [1.1]
+2023-09-16 11:02:21.600152 [DEBUG]: /assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+2023-09-16 11:02:21.600208 [DEBUG]: filesize:0, 1  to 254
+2023-09-16 11:02:25.410383 [DEBUG]: [GET], [/index.html], [1.1]
+2023-09-16 11:02:25.410744 [DEBUG]: /index.html
+2023-09-16 11:02:25.410835 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//index.html
+2023-09-16 11:02:25.410879 [DEBUG]: filesize:5211, 2  to 5333
+2023-09-16 11:02:25.456303 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-16 11:02:25.456381 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-16 11:02:25.456436 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-16 11:02:25.456462 [DEBUG]: filesize:242090, 2  to 242214
+2023-09-16 11:02:25.497882 [DEBUG]: [GET], [/assets/fonts/font-awesome.min.css], [1.1]
+2023-09-16 11:02:25.497962 [DEBUG]: /assets/fonts/font-awesome.min.css
+2023-09-16 11:02:25.498002 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/fonts/font-awesome.min.css
+2023-09-16 11:02:25.498026 [DEBUG]: filesize:31000, 2  to 31123
+2023-09-16 11:02:25.514835 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-16 11:02:25.514943 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-16 11:02:25.515032 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-16 11:02:25.515091 [DEBUG]: filesize:80620, 2  to 80750
+2023-09-16 11:02:25.553820 [DEBUG]: [GET], [/assets/js/grayscale.js], [1.1]
+2023-09-16 11:02:25.553946 [DEBUG]: /assets/js/grayscale.js
+2023-09-16 11:02:25.554050 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/js/grayscale.js
+2023-09-16 11:02:25.554139 [DEBUG]: filesize:1201, 2  to 1330
+2023-09-16 11:02:25.835658 [DEBUG]: [GET], [/assets/img/downloads-bg.jpg], [1.1]
+2023-09-16 11:02:25.835734 [DEBUG]: /assets/img/downloads-bg.jpg
+2023-09-16 11:02:25.835808 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/downloads-bg.jpg
+2023-09-16 11:02:25.835840 [DEBUG]: filesize:110981, 2  to 111106
+2023-09-16 11:02:25.837229 [DEBUG]: [GET], [/assets/img/intro-bg.jpg], [1.1]
+2023-09-16 11:02:25.837313 [DEBUG]: /assets/img/intro-bg.jpg
+2023-09-16 11:02:25.837384 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/intro-bg.jpg
+2023-09-16 11:02:25.837414 [DEBUG]: filesize:88321, 2  to 88445
+2023-09-16 11:02:25.889246 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff2?v=4.7.0], [1.1]
+2023-09-16 11:02:25.889327 [DEBUG]: /assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+2023-09-16 11:02:25.889379 [DEBUG]: filesize:0, 1  to 254
+2023-09-16 11:02:25.917404 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff?v=4.7.0], [1.1]
+2023-09-16 11:02:25.917528 [DEBUG]: /assets/fonts/fontawesome-webfont.woff?v=4.7.0
+2023-09-16 11:02:25.917604 [DEBUG]: filesize:0, 1  to 254
+2023-09-16 11:02:25.957778 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.ttf?v=4.7.0], [1.1]
+2023-09-16 11:02:25.957918 [DEBUG]: /assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+2023-09-16 11:02:25.958016 [DEBUG]: filesize:0, 1  to 254
+2023-09-16 11:02:50.980166 [INFO] : Client[15](223.104.145.168:38959) in, userCount:6
+2023-09-16 11:02:50.980409 [INFO] : Client[15] in!
+2023-09-16 11:02:51.031560 [DEBUG]: [GET], [/index.html], [1.1]
+2023-09-16 11:02:51.031682 [DEBUG]: /index.html
+2023-09-16 11:02:51.031734 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//index.html
+2023-09-16 11:02:51.031780 [DEBUG]: filesize:5211, 2  to 5333
+2023-09-16 11:02:51.400824 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-16 11:02:51.400883 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-16 11:02:51.401012 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-16 11:02:51.401062 [DEBUG]: filesize:242090, 2  to 242214
+2023-09-16 11:02:51.459363 [INFO] : Client[16](223.104.145.168:39471) in, userCount:7
+2023-09-16 11:02:51.459453 [INFO] : Client[16] in!
+2023-09-16 11:02:51.461228 [INFO] : Client[17](223.104.145.168:39215) in, userCount:8
+2023-09-16 11:02:51.461348 [INFO] : Client[17] in!
+2023-09-16 11:02:51.462024 [INFO] : Client[18](223.104.145.168:39983) in, userCount:9
+2023-09-16 11:02:51.462141 [INFO] : Client[18] in!
+2023-09-16 11:02:51.462183 [INFO] : Client[19](223.104.145.168:39727) in, userCount:10
+2023-09-16 11:02:51.462208 [INFO] : Client[19] in!
+2023-09-16 11:02:51.462656 [INFO] : Client[20](223.104.145.168:40239) in, userCount:11
+2023-09-16 11:02:51.462695 [INFO] : Client[20] in!
+2023-09-16 11:02:51.469918 [DEBUG]: [GET], [/assets/fonts/font-awesome.min.css], [1.1]
+2023-09-16 11:02:51.469977 [DEBUG]: /assets/fonts/font-awesome.min.css
+2023-09-16 11:02:51.470007 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/fonts/font-awesome.min.css
+2023-09-16 11:02:51.470034 [DEBUG]: filesize:31000, 2  to 31123
+2023-09-16 11:02:51.472131 [DEBUG]: [GET], [/assets/js/grayscale.js], [1.1]
+2023-09-16 11:02:51.472188 [DEBUG]: /assets/js/grayscale.js
+2023-09-16 11:02:51.472219 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/js/grayscale.js
+2023-09-16 11:02:51.472245 [DEBUG]: filesize:1201, 2  to 1330
+2023-09-16 11:02:51.472720 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-16 11:02:51.472842 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-16 11:02:51.472928 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-16 11:02:51.473024 [DEBUG]: filesize:80620, 2  to 80750
+2023-09-16 11:02:51.473279 [DEBUG]: [GET], [/assets/img/intro-bg.jpg], [1.1]
+2023-09-16 11:02:51.473331 [DEBUG]: /assets/img/intro-bg.jpg
+2023-09-16 11:02:51.473361 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/intro-bg.jpg
+2023-09-16 11:02:51.473399 [DEBUG]: filesize:88321, 2  to 88445
+2023-09-16 11:02:51.483586 [DEBUG]: [GET], [/assets/img/downloads-bg.jpg], [1.1]
+2023-09-16 11:02:51.483676 [DEBUG]: /assets/img/downloads-bg.jpg
+2023-09-16 11:02:51.483744 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/downloads-bg.jpg
+2023-09-16 11:02:51.483802 [DEBUG]: filesize:110981, 2  to 111106
+2023-09-16 11:02:53.042829 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff2?v=4.7.0], [1.1]
+2023-09-16 11:02:53.042894 [DEBUG]: /assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+2023-09-16 11:02:53.043005 [DEBUG]: filesize:0, 1  to 254
+2023-09-16 11:02:53.353338 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff?v=4.7.0], [1.1]
+2023-09-16 11:02:53.353457 [DEBUG]: /assets/fonts/fontawesome-webfont.woff?v=4.7.0
+2023-09-16 11:02:53.353535 [DEBUG]: filesize:0, 1  to 254
+2023-09-16 11:02:53.553749 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.ttf?v=4.7.0], [1.1]
+2023-09-16 11:02:53.553847 [DEBUG]: /assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+2023-09-16 11:02:53.553903 [DEBUG]: filesize:0, 1  to 254
+2023-09-16 11:02:53.581363 [INFO] : Client[21](223.104.145.168:40495) in, userCount:12
+2023-09-16 11:02:53.581443 [INFO] : Client[21] in!
+2023-09-16 11:02:53.591939 [ERROR]: RequestLine Error
+2023-09-16 11:02:53.592079 [DEBUG]: filesize:4096, 1  to 217
+2023-09-16 11:02:53.592204 [INFO] : Client[21] quit!
+2023-09-16 11:02:53.592263 [INFO] : Client[21](223.104.145.168:40495) quit, UserCount:11
+2023-09-16 11:02:53.670588 [INFO] : Client[21](223.104.145.168:40751) in, userCount:12
+2023-09-16 11:02:53.670671 [INFO] : Client[21] in!
+2023-09-16 11:02:53.701378 [ERROR]: RequestLine Error
+2023-09-16 11:02:53.701533 [DEBUG]: filesize:4096, 1  to 217
+2023-09-16 11:02:53.701660 [INFO] : Client[21] quit!
+2023-09-16 11:02:53.701713 [INFO] : Client[21](223.104.145.168:40751) quit, UserCount:11
+2023-09-16 11:02:53.837987 [DEBUG]: [GET], [/assets/img/dog.png], [1.1]
+2023-09-16 11:02:53.838064 [DEBUG]: /assets/img/dog.png
+2023-09-16 11:02:53.838121 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/dog.png
+2023-09-16 11:02:53.838170 [DEBUG]: filesize:3002, 2  to 3124
+2023-09-16 11:03:04.933701 [DEBUG]: [GET], [/assets/img/dog.png], [1.1]
+2023-09-16 11:03:04.933775 [DEBUG]: /assets/img/dog.png
+2023-09-16 11:03:04.934053 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/dog.png
+2023-09-16 11:03:04.934141 [DEBUG]: filesize:3002, 2  to 3124
+2023-09-16 11:03:21.300224 [INFO] : Client[12] quit!
+2023-09-16 11:03:21.300385 [INFO] : Client[12](183.210.8.8:56600) quit, UserCount:10
+2023-09-16 11:03:21.309511 [INFO] : Client[14] quit!
+2023-09-16 11:03:21.309652 [INFO] : Client[14](183.210.8.8:57880) quit, UserCount:9
+2023-09-16 11:03:25.840276 [INFO] : Client[11] quit!
+2023-09-16 11:03:25.840467 [INFO] : Client[11](183.210.8.8:55576) quit, UserCount:8
+2023-09-16 11:03:25.840510 [INFO] : Client[13] quit!
+2023-09-16 11:03:25.840581 [INFO] : Client[13](183.210.8.8:56344) quit, UserCount:7
+2023-09-16 11:03:25.957801 [INFO] : Client[10] quit!
+2023-09-16 11:03:25.957963 [INFO] : Client[10](183.210.8.8:55832) quit, UserCount:6
+2023-09-16 11:03:48.633096 [DEBUG]: [GET], [/assets/img/dog.png], [1.1]
+2023-09-16 11:03:48.633196 [DEBUG]: /assets/img/dog.png
+2023-09-16 11:03:48.633253 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/dog.png
+2023-09-16 11:03:48.633273 [DEBUG]: filesize:3002, 2  to 3124
+2023-09-16 11:03:51.470790 [INFO] : Client[16] quit!
+2023-09-16 11:03:51.470983 [INFO] : Client[16](223.104.145.168:39471) quit, UserCount:5
+2023-09-16 11:03:51.472103 [INFO] : Client[17] quit!
+2023-09-16 11:03:51.472223 [INFO] : Client[17](223.104.145.168:39215) quit, UserCount:4
+2023-09-16 11:03:51.511364 [INFO] : Client[18] quit!
+2023-09-16 11:03:51.511539 [INFO] : Client[18](223.104.145.168:39983) quit, UserCount:3
+2023-09-16 11:03:51.550669 [INFO] : Client[15] quit!
+2023-09-16 11:03:51.550860 [INFO] : Client[15](223.104.145.168:38959) quit, UserCount:2
+2023-09-16 11:03:51.571998 [INFO] : Client[20] quit!
+2023-09-16 11:03:51.572184 [INFO] : Client[20](223.104.145.168:40239) quit, UserCount:1
+2023-09-16 11:03:53.702761 [INFO] : Client[21] quit!
+2023-09-16 11:04:00.932738 [INFO] : Client[19] quit!
+2023-09-16 11:04:00.932899 [INFO] : Client[19](223.104.145.168:39727) quit, UserCount:0
+2023-09-16 11:04:48.679484 [INFO] : Client[19] quit!
+2023-09-16 11:09:16.335916 [INFO] : Client[10](36.150.60.24:44713) in, userCount:1
+2023-09-16 11:09:16.336005 [INFO] : Client[10] in!
+2023-09-16 11:09:16.343464 [DEBUG]: [GET], [/index.html], [1.1]
+2023-09-16 11:09:16.343534 [DEBUG]: /index.html
+2023-09-16 11:09:16.343564 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//index.html
+2023-09-16 11:09:16.343586 [DEBUG]: filesize:5211, 2  to 5333
+2023-09-16 11:09:16.369940 [INFO] : Client[10] quit!
+2023-09-16 11:09:16.370108 [INFO] : Client[10](36.150.60.24:44713) quit, UserCount:0
+2023-09-16 11:10:06.630043 [INFO] : Client[10](36.150.60.24:45769) in, userCount:1
+2023-09-16 11:10:06.630138 [INFO] : Client[10] in!
+2023-09-16 11:10:06.650549 [DEBUG]: [GET], [/favicon.ico], [1.1]
+2023-09-16 11:10:06.650624 [DEBUG]: /favicon.ico
+2023-09-16 11:10:06.650665 [DEBUG]: filesize:0, 1  to 254
+2023-09-16 11:10:06.768164 [INFO] : Client[10] quit!
+2023-09-16 11:10:06.768317 [INFO] : Client[10](36.150.60.24:45769) quit, UserCount:0
+2023-09-16 11:10:26.349094 [INFO] : Client[10](36.150.60.24:59119) in, userCount:1
+2023-09-16 11:10:26.349200 [INFO] : Client[10] in!
+2023-09-16 11:10:26.998837 [DEBUG]: [GET], [/index.html], [1.1]
+2023-09-16 11:10:26.998909 [DEBUG]: /index.html
+2023-09-16 11:10:26.998938 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//index.html
+2023-09-16 11:10:26.998961 [DEBUG]: filesize:5211, 2  to 5333
+2023-09-16 11:10:27.165750 [INFO] : Client[10] quit!
+2023-09-16 11:10:27.165915 [INFO] : Client[10](36.150.60.24:59119) quit, UserCount:0
+2023-09-16 11:11:26.052842 [INFO] : Client[10](36.150.60.24:63517) in, userCount:1
+2023-09-16 11:11:26.052951 [INFO] : Client[10] in!
+2023-09-16 11:11:26.074081 [DEBUG]: [GET], [/index.html], [1.1]
+2023-09-16 11:11:26.074161 [DEBUG]: /index.html
+2023-09-16 11:11:26.074210 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//index.html
+2023-09-16 11:11:26.074241 [DEBUG]: filesize:5211, 2  to 5333
+2023-09-16 11:11:26.098320 [INFO] : Client[10] quit!
+2023-09-16 11:11:26.098486 [INFO] : Client[10](36.150.60.24:63517) quit, UserCount:0
+2023-09-16 11:12:03.048156 [INFO] : Client[10](36.150.60.24:56313) in, userCount:1
+2023-09-16 11:12:03.048275 [INFO] : Client[10] in!
+2023-09-16 11:12:03.601120 [ERROR]: RequestLine Error
+2023-09-16 11:12:03.601231 [DEBUG]: filesize:4096, 1  to 217
+2023-09-16 11:12:03.601316 [INFO] : Client[10] quit!
+2023-09-16 11:12:03.601406 [INFO] : Client[10](36.150.60.24:56313) quit, UserCount:0
+2023-09-16 11:13:03.655728 [INFO] : Client[10] quit!
+2023-09-16 11:14:18.218108 [INFO] : Client[10](36.150.60.24:11451) in, userCount:1
+2023-09-16 11:14:18.218222 [INFO] : Client[10] in!
+2023-09-16 11:14:19.418526 [ERROR]: RequestLine Error
+2023-09-16 11:14:19.418634 [DEBUG]: filesize:4096, 1  to 217
+2023-09-16 11:14:19.418735 [INFO] : Client[10] quit!
+2023-09-16 11:14:19.418822 [INFO] : Client[10](36.150.60.24:11451) quit, UserCount:0
+2023-09-16 11:15:19.471746 [INFO] : Client[10] quit!
+2023-09-16 11:15:27.134745 [INFO] : Client[10](36.150.60.24:21675) in, userCount:1
+2023-09-16 11:15:27.134853 [INFO] : Client[10] in!
+2023-09-16 11:15:27.485364 [ERROR]: RequestLine Error
+2023-09-16 11:15:27.485501 [DEBUG]: filesize:4096, 1  to 217
+2023-09-16 11:15:27.485591 [INFO] : Client[10] quit!
+2023-09-16 11:15:27.485650 [INFO] : Client[10](36.150.60.24:21675) quit, UserCount:0
+2023-09-16 11:16:13.890735 [INFO] : Client[10](38.150.11.180:19049) in, userCount:1
+2023-09-16 11:16:13.890845 [INFO] : Client[10] in!
+2023-09-16 11:16:13.891739 [DEBUG]: [GET], [/login.html], [1.1]
+2023-09-16 11:16:13.891819 [DEBUG]: /login.html
+2023-09-16 11:16:13.891870 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//login.html
+2023-09-16 11:16:13.892991 [DEBUG]: filesize:1790, 2  to 1875
+2023-09-16 11:16:13.893081 [INFO] : Client[10] quit!
+2023-09-16 11:16:13.893145 [INFO] : Client[10](38.150.11.180:19049) quit, UserCount:0
+2023-09-16 11:16:14.394442 [INFO] : Client[10](38.150.11.180:22633) in, userCount:1
+2023-09-16 11:16:14.394530 [INFO] : Client[10] in!
+2023-09-16 11:16:14.395187 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-16 11:16:14.395241 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-16 11:16:14.395278 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-16 11:16:14.395341 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-16 11:16:14.395516 [INFO] : Client[10] quit!
+2023-09-16 11:16:14.395596 [INFO] : Client[10](38.150.11.180:22633) quit, UserCount:0
+2023-09-16 11:16:14.422234 [INFO] : Client[10](38.150.11.180:23145) in, userCount:1
+2023-09-16 11:16:14.422348 [INFO] : Client[10] in!
+2023-09-16 11:16:14.422879 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-16 11:16:14.422922 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-16 11:16:14.422968 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-16 11:16:14.423020 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-16 11:16:14.460309 [INFO] : Client[11](38.150.11.180:24169) in, userCount:2
+2023-09-16 11:16:14.460383 [INFO] : Client[11] in!
+2023-09-16 11:16:14.460919 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-16 11:16:14.460977 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-16 11:16:14.461021 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/death-stranding-1.jpg
+2023-09-16 11:16:14.461079 [DEBUG]: filesize:270907, 2  to 270995
+2023-09-16 11:16:14.881675 [INFO] : Client[10] quit!
+2023-09-16 11:16:14.882047 [INFO] : Client[10](38.150.11.180:23145) quit, UserCount:1
+2023-09-16 11:16:14.926699 [INFO] : Client[11] quit!
+2023-09-16 11:16:14.926901 [INFO] : Client[11](38.150.11.180:24169) quit, UserCount:0
+2023-09-16 11:16:18.725530 [INFO] : Client[10](36.150.60.24:34346) in, userCount:1
+2023-09-16 11:16:18.725618 [INFO] : Client[10] in!
+2023-09-16 11:16:18.916502 [DEBUG]: [GET], [/index.html], [1.1]
+2023-09-16 11:16:18.916594 [DEBUG]: /index.html
+2023-09-16 11:16:18.916629 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//index.html
+2023-09-16 11:16:18.916658 [DEBUG]: filesize:5211, 2  to 5333
+2023-09-16 11:16:18.997836 [INFO] : Client[10] quit!
+2023-09-16 11:16:18.997979 [INFO] : Client[10](36.150.60.24:34346) quit, UserCount:0
+2023-09-16 11:17:14.975380 [INFO] : Client[11] quit!
+2023-09-16 11:17:18.920474 [INFO] : Client[10] quit!
+2023-09-16 11:17:47.285957 [INFO] : Client[10](36.150.60.24:38857) in, userCount:1
+2023-09-16 11:17:47.286049 [INFO] : Client[10] in!
+2023-09-16 11:17:48.430115 [ERROR]: RequestLine Error
+2023-09-16 11:17:48.430244 [DEBUG]: filesize:4096, 1  to 217
+2023-09-16 11:17:48.430323 [INFO] : Client[10] quit!
+2023-09-16 11:17:48.430402 [INFO] : Client[10](36.150.60.24:38857) quit, UserCount:0
+2023-09-16 11:18:48.483352 [INFO] : Client[10] quit!
+2023-09-16 17:38:05.960509 [INFO] : Client[10](183.210.8.8:33950) in, userCount:1
+2023-09-16 17:38:05.960608 [INFO] : Client[10] in!
+2023-09-16 17:38:05.960678 [INFO] : Client[11](183.210.8.8:34206) in, userCount:2
+2023-09-16 17:38:05.960696 [INFO] : Client[11] in!
+2023-09-16 17:38:05.961452 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-16 17:38:05.961494 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-16 17:38:05.961519 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-16 17:38:05.961545 [DEBUG]: [GET], [/assets/fonts/font-awesome.min.css], [1.1]
+2023-09-16 17:38:05.961555 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-16 17:38:05.961610 [DEBUG]: /assets/fonts/font-awesome.min.css
+2023-09-16 17:38:05.961636 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/fonts/font-awesome.min.css
+2023-09-16 17:38:05.961660 [DEBUG]: filesize:31000, 2  to 31086
+2023-09-16 17:38:05.961756 [INFO] : Client[11] quit!
+2023-09-16 17:38:05.961824 [INFO] : Client[11](183.210.8.8:34206) quit, UserCount:1
+2023-09-16 17:38:05.977088 [INFO] : Client[11](183.210.8.8:34462) in, userCount:2
+2023-09-16 17:38:05.977174 [INFO] : Client[11] in!
+2023-09-16 17:38:05.977930 [DEBUG]: [GET], [/assets/js/grayscale.js], [1.1]
+2023-09-16 17:38:05.977987 [DEBUG]: /assets/js/grayscale.js
+2023-09-16 17:38:05.978032 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/js/grayscale.js
+2023-09-16 17:38:05.978075 [DEBUG]: filesize:1201, 2  to 1293
+2023-09-16 17:38:05.978156 [INFO] : Client[11] quit!
+2023-09-16 17:38:05.978257 [INFO] : Client[11](183.210.8.8:34462) quit, UserCount:1
+2023-09-16 17:38:05.981900 [INFO] : Client[11](183.210.8.8:34718) in, userCount:2
+2023-09-16 17:38:05.981960 [INFO] : Client[11] in!
+2023-09-16 17:38:05.982493 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-16 17:38:05.982543 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-16 17:38:05.982594 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-16 17:38:05.982643 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-16 17:38:05.982869 [INFO] : Client[11] quit!
+2023-09-16 17:38:05.982940 [INFO] : Client[11](183.210.8.8:34718) quit, UserCount:1
+2023-09-16 17:38:05.999917 [INFO] : Client[10] quit!
+2023-09-16 17:38:06.000050 [INFO] : Client[10](183.210.8.8:33950) quit, UserCount:0
+2023-09-16 17:38:06.092253 [INFO] : Client[10](183.210.8.8:35742) in, userCount:1
+2023-09-16 17:38:06.092332 [INFO] : Client[10] in!
+2023-09-16 17:38:06.093224 [INFO] : Client[11](183.210.8.8:35998) in, userCount:2
+2023-09-16 17:38:06.093291 [INFO] : Client[11] in!
+2023-09-16 17:38:06.093320 [DEBUG]: [GET], [/assets/img/intro-bg.jpg], [1.1]
+2023-09-16 17:38:06.093391 [DEBUG]: /assets/img/intro-bg.jpg
+2023-09-16 17:38:06.093430 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/intro-bg.jpg
+2023-09-16 17:38:06.093478 [DEBUG]: filesize:88321, 2  to 88408
+2023-09-16 17:38:06.093609 [INFO] : Client[10] quit!
+2023-09-16 17:38:06.093664 [INFO] : Client[10](183.210.8.8:35742) quit, UserCount:1
+2023-09-16 17:38:06.094160 [DEBUG]: [GET], [/assets/img/downloads-bg.jpg], [1.1]
+2023-09-16 17:38:06.094185 [DEBUG]: /assets/img/downloads-bg.jpg
+2023-09-16 17:38:06.094233 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/downloads-bg.jpg
+2023-09-16 17:38:06.094290 [DEBUG]: filesize:110981, 2  to 111069
+2023-09-16 17:38:06.094455 [INFO] : Client[11] quit!
+2023-09-16 17:38:06.094503 [INFO] : Client[11](183.210.8.8:35998) quit, UserCount:0
+2023-09-16 17:38:06.144060 [INFO] : Client[10](183.210.8.8:36254) in, userCount:1
+2023-09-16 17:38:06.144174 [INFO] : Client[10] in!
+2023-09-16 17:38:06.144819 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff2?v=4.7.0], [1.1]
+2023-09-16 17:38:06.144885 [DEBUG]: /assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+2023-09-16 17:38:06.144921 [DEBUG]: filesize:0, 1  to 217
+2023-09-16 17:38:06.144991 [INFO] : Client[10] quit!
+2023-09-16 17:38:06.145037 [INFO] : Client[10](183.210.8.8:36254) quit, UserCount:0
+2023-09-16 17:38:06.185947 [INFO] : Client[10](183.210.8.8:36510) in, userCount:1
+2023-09-16 17:38:06.186038 [INFO] : Client[10] in!
+2023-09-16 17:38:06.186673 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff?v=4.7.0], [1.1]
+2023-09-16 17:38:06.186748 [DEBUG]: /assets/fonts/fontawesome-webfont.woff?v=4.7.0
+2023-09-16 17:38:06.186806 [DEBUG]: filesize:0, 1  to 217
+2023-09-16 17:38:06.186895 [INFO] : Client[10] quit!
+2023-09-16 17:38:06.186977 [INFO] : Client[10](183.210.8.8:36510) quit, UserCount:0
+2023-09-16 17:38:06.229394 [INFO] : Client[10](183.210.8.8:36766) in, userCount:1
+2023-09-16 17:38:06.229489 [INFO] : Client[10] in!
+2023-09-16 17:38:06.231095 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.ttf?v=4.7.0], [1.1]
+2023-09-16 17:38:06.231178 [DEBUG]: /assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+2023-09-16 17:38:06.231232 [DEBUG]: filesize:0, 1  to 217
+2023-09-16 17:38:06.231338 [INFO] : Client[10] quit!
+2023-09-16 17:38:06.231409 [INFO] : Client[10](183.210.8.8:36766) quit, UserCount:0
+2023-09-16 17:38:10.600803 [INFO] : Client[10](183.210.8.8:45726) in, userCount:1
+2023-09-16 17:38:10.600894 [INFO] : Client[10] in!
+2023-09-16 17:38:10.601931 [DEBUG]: [GET], [/login.html], [1.1]
+2023-09-16 17:38:10.602041 [DEBUG]: /login.html
+2023-09-16 17:38:10.602109 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//login.html
+2023-09-16 17:38:10.602174 [DEBUG]: filesize:1790, 2  to 1875
+2023-09-16 17:38:10.602292 [INFO] : Client[10] quit!
+2023-09-16 17:38:10.602368 [INFO] : Client[10](183.210.8.8:45726) quit, UserCount:0
+2023-09-16 17:38:10.663545 [INFO] : Client[10](183.210.8.8:45982) in, userCount:1
+2023-09-16 17:38:10.663622 [INFO] : Client[10] in!
+2023-09-16 17:38:10.664296 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-16 17:38:10.664394 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-16 17:38:10.664452 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-16 17:38:10.664513 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-16 17:38:10.670305 [INFO] : Client[11](183.210.8.8:46494) in, userCount:2
+2023-09-16 17:38:10.670367 [INFO] : Client[11] in!
+2023-09-16 17:38:10.671034 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-16 17:38:10.671106 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-16 17:38:10.671162 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/death-stranding-1.jpg
+2023-09-16 17:38:10.671225 [DEBUG]: filesize:270907, 2  to 270995
+2023-09-16 17:38:10.672232 [INFO] : Client[12](183.210.8.8:46238) in, userCount:3
+2023-09-16 17:38:10.672300 [INFO] : Client[12] in!
+2023-09-16 17:38:10.673207 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-16 17:38:10.673301 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-16 17:38:10.673385 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-16 17:38:10.673427 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-16 17:38:10.673615 [INFO] : Client[12] quit!
+2023-09-16 17:38:10.673706 [INFO] : Client[12](183.210.8.8:46238) quit, UserCount:2
+2023-09-16 17:38:10.698422 [INFO] : Client[10] quit!
+2023-09-16 17:38:10.698586 [INFO] : Client[10](183.210.8.8:45982) quit, UserCount:1
+2023-09-16 17:38:10.725745 [INFO] : Client[11] quit!
+2023-09-16 17:38:10.725984 [INFO] : Client[11](183.210.8.8:46494) quit, UserCount:0
+2023-09-16 17:38:15.725011 [INFO] : Client[10](183.210.8.8:56990) in, userCount:1
+2023-09-16 17:38:15.725135 [INFO] : Client[10] in!
+2023-09-16 17:38:15.726245 [DEBUG]: username = zpaa
+2023-09-16 17:38:15.726309 [DEBUG]: Tag:1
+2023-09-16 17:38:15.726353 [INFO] : Verify name:zpaa pwd:123456
+2023-09-16 17:38:15.726386 [DEBUG]: SELECT username, password FROM user WHERE username='zpaa' LIMIT 1
+2023-09-16 17:38:15.847044 [DEBUG]: MYSQL ROW: zpaa 123456
+2023-09-16 17:38:15.847111 [DEBUG]: UserVerify success!!
+2023-09-16 17:38:15.847180 [DEBUG]: Body:username=zpaa&password=123456, len:29
+2023-09-16 17:38:15.847225 [DEBUG]: [POST], [/welcome.html], [1.1]
+2023-09-16 17:38:15.847251 [DEBUG]: /welcome.html
+2023-09-16 17:38:15.847308 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//welcome.html
+2023-09-16 17:38:15.847942 [DEBUG]: filesize:3831, 2  to 3916
+2023-09-16 17:38:15.848091 [INFO] : Client[10] quit!
+2023-09-16 17:38:15.848166 [INFO] : Client[10](183.210.8.8:56990) quit, UserCount:0
+2023-09-16 17:38:15.908406 [INFO] : Client[10](183.210.8.8:57502) in, userCount:1
+2023-09-16 17:38:15.908549 [INFO] : Client[10] in!
+2023-09-16 17:38:15.909331 [DEBUG]: [GET], [/weassets/fonts/font-awesome.min.css], [1.1]
+2023-09-16 17:38:15.909360 [DEBUG]: /weassets/fonts/font-awesome.min.css
+2023-09-16 17:38:15.909701 [INFO] : Client[11](183.210.8.8:57246) in, userCount:2
+2023-09-16 17:38:15.909765 [INFO] : Client[11] in!
+2023-09-16 17:38:15.910517 [DEBUG]: [GET], [/weassets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-16 17:38:15.910590 [DEBUG]: /weassets/bootstrap/css/bootstrap.min.css
+2023-09-16 17:38:15.910950 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//weassets/fonts/font-awesome.min.css
+2023-09-16 17:38:15.912460 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//weassets/bootstrap/css/bootstrap.min.css
+2023-09-16 17:38:15.912567 [DEBUG]: filesize:31000, 2  to 31086
+2023-09-16 17:38:15.912709 [INFO] : Client[12](183.210.8.8:58014) in, userCount:3
+2023-09-16 17:38:15.912755 [INFO] : Client[12] in!
+2023-09-16 17:38:15.913347 [DEBUG]: [GET], [/weassets/js/clean-blog.js], [1.1]
+2023-09-16 17:38:15.913371 [DEBUG]: /weassets/js/clean-blog.js
+2023-09-16 17:38:15.914424 [DEBUG]: filesize:244420, 2  to 244507
+2023-09-16 17:38:15.914429 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//weassets/js/clean-blog.js
+2023-09-16 17:38:15.914607 [INFO] : Client[10] quit!
+2023-09-16 17:38:15.914674 [INFO] : Client[10](183.210.8.8:57502) quit, UserCount:2
+2023-09-16 17:38:15.915265 [DEBUG]: filesize:1173, 2  to 1265
+2023-09-16 17:38:15.915381 [INFO] : Client[12] quit!
+2023-09-16 17:38:15.915440 [INFO] : Client[12](183.210.8.8:58014) quit, UserCount:1
+2023-09-16 17:38:15.916269 [INFO] : Client[10](183.210.8.8:57758) in, userCount:2
+2023-09-16 17:38:15.916325 [INFO] : Client[10] in!
+2023-09-16 17:38:15.917159 [DEBUG]: [GET], [/weassets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-16 17:38:15.917223 [DEBUG]: /weassets/bootstrap/js/bootstrap.min.js
+2023-09-16 17:38:15.918027 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//weassets/bootstrap/js/bootstrap.min.js
+2023-09-16 17:38:15.919706 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-16 17:38:15.919912 [INFO] : Client[10] quit!
+2023-09-16 17:38:15.919999 [INFO] : Client[10](183.210.8.8:57758) quit, UserCount:1
+2023-09-16 17:38:16.085886 [INFO] : Client[11] quit!
+2023-09-16 17:38:16.086054 [INFO] : Client[11](183.210.8.8:57246) quit, UserCount:0
+2023-09-16 17:38:16.182192 [INFO] : Client[10](183.210.8.8:58270) in, userCount:1
+2023-09-16 17:38:16.182280 [INFO] : Client[10] in!
+2023-09-16 17:38:16.183140 [DEBUG]: [GET], [/weassets/img/home-bg.jpg], [1.1]
+2023-09-16 17:38:16.183241 [DEBUG]: /weassets/img/home-bg.jpg
+2023-09-16 17:38:16.184080 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//weassets/img/home-bg.jpg
+2023-09-16 17:38:16.186821 [DEBUG]: filesize:106050, 2  to 106138
+2023-09-16 17:38:16.187027 [INFO] : Client[10] quit!
+2023-09-16 17:38:16.187086 [INFO] : Client[10](183.210.8.8:58270) quit, UserCount:0
+2023-09-16 17:38:20.842657 [INFO] : Client[10](183.210.8.8:61342) in, userCount:1
+2023-09-16 17:38:20.842793 [INFO] : Client[10] in!
+2023-09-16 17:38:20.843831 [DEBUG]: [GET], [/JSON.html], [1.1]
+2023-09-16 17:38:20.843913 [DEBUG]: /JSON.html
+2023-09-16 17:38:20.843971 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//JSON.html
+2023-09-16 17:38:20.845493 [DEBUG]: filesize:48608, 2  to 48694
+2023-09-16 17:38:20.845685 [INFO] : Client[10] quit!
+2023-09-16 17:38:20.845757 [INFO] : Client[10](183.210.8.8:61342) quit, UserCount:0
+2023-09-16 17:38:24.937265 [INFO] : Client[10](183.210.8.8:64414) in, userCount:1
+2023-09-16 17:38:24.937345 [INFO] : Client[10] in!
+2023-09-16 17:38:24.938194 [DEBUG]: [GET], [/weassets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-16 17:38:24.938298 [DEBUG]: /weassets/bootstrap/css/bootstrap.min.css
+2023-09-16 17:38:24.938388 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//weassets/bootstrap/css/bootstrap.min.css
+2023-09-16 17:38:24.938436 [DEBUG]: filesize:244420, 2  to 244507
+2023-09-16 17:38:24.938571 [INFO] : Client[11](183.210.8.8:64670) in, userCount:2
+2023-09-16 17:38:24.938613 [INFO] : Client[11] in!
+2023-09-16 17:38:24.939358 [DEBUG]: [GET], [/weassets/fonts/font-awesome.min.css], [1.1]
+2023-09-16 17:38:24.939466 [DEBUG]: /weassets/fonts/font-awesome.min.css
+2023-09-16 17:38:24.939576 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//weassets/fonts/font-awesome.min.css
+2023-09-16 17:38:24.939621 [DEBUG]: filesize:31000, 2  to 31086
+2023-09-16 17:38:24.939756 [INFO] : Client[11] quit!
+2023-09-16 17:38:24.939865 [INFO] : Client[11](183.210.8.8:64670) quit, UserCount:1
+2023-09-16 17:38:25.141094 [INFO] : Client[10] quit!
+2023-09-16 17:38:25.141262 [INFO] : Client[10](183.210.8.8:64414) quit, UserCount:0
+2023-09-16 17:38:47.373426 [INFO] : Client[10](183.210.8.8:8863) in, userCount:1
+2023-09-16 17:38:47.373553 [INFO] : Client[10] in!
+2023-09-16 17:38:47.374149 [DEBUG]: [GET], [/index.html], [1.1]
+2023-09-16 17:38:47.374183 [DEBUG]: /index.html
+2023-09-16 17:38:47.374216 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//index.html
+2023-09-16 17:38:47.374258 [DEBUG]: filesize:5211, 2  to 5296
+2023-09-16 17:38:47.374343 [INFO] : Client[10] quit!
+2023-09-16 17:38:47.374394 [INFO] : Client[10](183.210.8.8:8863) quit, UserCount:0
+2023-09-16 17:38:48.441002 [INFO] : Client[10](183.210.8.8:9631) in, userCount:1
+2023-09-16 17:38:48.441127 [INFO] : Client[10] in!
+2023-09-16 17:38:48.441153 [INFO] : Client[11](183.210.8.8:9375) in, userCount:2
+2023-09-16 17:38:48.441177 [INFO] : Client[11] in!
+2023-09-16 17:38:48.442068 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-16 17:38:48.442139 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-16 17:38:48.442205 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-16 17:38:48.442231 [DEBUG]: [GET], [/assets/fonts/font-awesome.min.css], [1.1]
+2023-09-16 17:38:48.442268 [DEBUG]: /assets/fonts/font-awesome.min.css
+2023-09-16 17:38:48.442280 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-16 17:38:48.442394 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/fonts/font-awesome.min.css
+2023-09-16 17:38:48.442508 [DEBUG]: filesize:31000, 2  to 31086
+2023-09-16 17:38:48.442610 [INFO] : Client[10] quit!
+2023-09-16 17:38:48.442687 [INFO] : Client[10](183.210.8.8:9631) quit, UserCount:1
+2023-09-16 17:38:48.472293 [INFO] : Client[10](183.210.8.8:10143) in, userCount:2
+2023-09-16 17:38:48.472357 [INFO] : Client[10] in!
+2023-09-16 17:38:48.473318 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-16 17:38:48.473392 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-16 17:38:48.473465 [INFO] : Client[12](183.210.8.8:9887) in, userCount:3
+2023-09-16 17:38:48.473504 [INFO] : Client[12] in!
+2023-09-16 17:38:48.474164 [DEBUG]: [GET], [/assets/js/grayscale.js], [1.1]
+2023-09-16 17:38:48.474217 [DEBUG]: /assets/js/grayscale.js
+2023-09-16 17:38:48.474283 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/js/grayscale.js
+2023-09-16 17:38:48.474331 [DEBUG]: filesize:1201, 2  to 1293
+2023-09-16 17:38:48.474399 [INFO] : Client[12] quit!
+2023-09-16 17:38:48.474444 [INFO] : Client[12](183.210.8.8:9887) quit, UserCount:2
+2023-09-16 17:38:48.474488 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-16 17:38:48.474512 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-16 17:38:48.474613 [INFO] : Client[10] quit!
+2023-09-16 17:38:48.474657 [INFO] : Client[10](183.210.8.8:10143) quit, UserCount:1
+2023-09-16 17:38:48.650643 [INFO] : Client[11] quit!
+2023-09-16 17:38:48.650815 [INFO] : Client[11](183.210.8.8:9375) quit, UserCount:0
+2023-09-16 17:38:48.767732 [INFO] : Client[10](183.210.8.8:11167) in, userCount:1
+2023-09-16 17:38:48.767799 [INFO] : Client[10] in!
+2023-09-16 17:38:48.768460 [DEBUG]: [GET], [/assets/img/intro-bg.jpg], [1.1]
+2023-09-16 17:38:48.768541 [DEBUG]: /assets/img/intro-bg.jpg
+2023-09-16 17:38:48.768598 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/intro-bg.jpg
+2023-09-16 17:38:48.768654 [DEBUG]: filesize:88321, 2  to 88408
+2023-09-16 17:38:48.768852 [INFO] : Client[10] quit!
+2023-09-16 17:38:48.768950 [INFO] : Client[10](183.210.8.8:11167) quit, UserCount:0
+2023-09-16 17:38:48.772805 [INFO] : Client[10](183.210.8.8:11679) in, userCount:1
+2023-09-16 17:38:48.772861 [INFO] : Client[10] in!
+2023-09-16 17:38:48.772900 [INFO] : Client[11](183.210.8.8:11423) in, userCount:2
+2023-09-16 17:38:48.772930 [INFO] : Client[11] in!
+2023-09-16 17:38:48.773963 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff2?v=4.7.0], [1.1]
+2023-09-16 17:38:48.774045 [DEBUG]: /assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+2023-09-16 17:38:48.774045 [DEBUG]: [GET], [/assets/img/downloads-bg.jpg], [1.1]
+2023-09-16 17:38:48.774118 [DEBUG]: /assets/img/downloads-bg.jpg
+2023-09-16 17:38:48.774143 [DEBUG]: filesize:0, 1  to 217
+2023-09-16 17:38:48.774216 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/downloads-bg.jpg
+2023-09-16 17:38:48.774262 [DEBUG]: filesize:110981, 2  to 111069
+2023-09-16 17:38:48.774286 [INFO] : Client[10] quit!
+2023-09-16 17:38:48.774373 [INFO] : Client[10](183.210.8.8:11679) quit, UserCount:1
+2023-09-16 17:38:48.774438 [INFO] : Client[11] quit!
+2023-09-16 17:38:48.774499 [INFO] : Client[11](183.210.8.8:11423) quit, UserCount:0
+2023-09-16 17:38:48.811745 [INFO] : Client[10](183.210.8.8:11935) in, userCount:1
+2023-09-16 17:38:48.811871 [INFO] : Client[10] in!
+2023-09-16 17:38:48.812436 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff?v=4.7.0], [1.1]
+2023-09-16 17:38:48.812480 [DEBUG]: /assets/fonts/fontawesome-webfont.woff?v=4.7.0
+2023-09-16 17:38:48.812527 [DEBUG]: filesize:0, 1  to 217
+2023-09-16 17:38:48.812591 [INFO] : Client[10] quit!
+2023-09-16 17:38:48.812636 [INFO] : Client[10](183.210.8.8:11935) quit, UserCount:0
+2023-09-16 17:38:48.854009 [INFO] : Client[10](183.210.8.8:12191) in, userCount:1
+2023-09-16 17:38:48.854078 [INFO] : Client[10] in!
+2023-09-16 17:38:48.854684 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.ttf?v=4.7.0], [1.1]
+2023-09-16 17:38:48.854819 [DEBUG]: /assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+2023-09-16 17:38:48.854926 [DEBUG]: filesize:0, 1  to 217
+2023-09-16 17:38:48.854995 [INFO] : Client[10] quit!
+2023-09-16 17:38:48.855050 [INFO] : Client[10](183.210.8.8:12191) quit, UserCount:0
+2023-09-16 17:39:03.744743 [INFO] : Client[10](183.210.8.8:34719) in, userCount:1
+2023-09-16 17:39:03.744857 [INFO] : Client[10] in!
+2023-09-16 17:39:03.745716 [DEBUG]: [GET], [/login.html], [1.1]
+2023-09-16 17:39:03.745761 [DEBUG]: /login.html
+2023-09-16 17:39:03.745792 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//login.html
+2023-09-16 17:39:03.745836 [DEBUG]: filesize:1790, 2  to 1875
+2023-09-16 17:39:03.745926 [INFO] : Client[10] quit!
+2023-09-16 17:39:03.745986 [INFO] : Client[10](183.210.8.8:34719) quit, UserCount:0
+2023-09-16 17:39:03.805114 [INFO] : Client[10](183.210.8.8:35231) in, userCount:1
+2023-09-16 17:39:03.805199 [INFO] : Client[10] in!
+2023-09-16 17:39:03.806209 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-16 17:39:03.806304 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-16 17:39:03.806377 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-16 17:39:03.806449 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-16 17:39:03.817605 [INFO] : Client[11](183.210.8.8:35487) in, userCount:2
+2023-09-16 17:39:03.817680 [INFO] : Client[11] in!
+2023-09-16 17:39:03.818251 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-16 17:39:03.818312 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-16 17:39:03.818360 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/death-stranding-1.jpg
+2023-09-16 17:39:03.818411 [DEBUG]: filesize:270907, 2  to 270995
+2023-09-16 17:39:03.834220 [INFO] : Client[12](183.210.8.8:35743) in, userCount:3
+2023-09-16 17:39:03.834310 [INFO] : Client[12] in!
+2023-09-16 17:39:03.835078 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-16 17:39:03.835242 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-16 17:39:03.835294 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-16 17:39:03.835329 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-16 17:39:03.835464 [INFO] : Client[12] quit!
+2023-09-16 17:39:03.835522 [INFO] : Client[12](183.210.8.8:35743) quit, UserCount:2
+2023-09-16 17:39:03.968904 [INFO] : Client[10] quit!
+2023-09-16 17:39:03.969074 [INFO] : Client[10](183.210.8.8:35231) quit, UserCount:1
+2023-09-16 17:39:04.017260 [INFO] : Client[11] quit!
+2023-09-16 17:39:04.017411 [INFO] : Client[11](183.210.8.8:35487) quit, UserCount:0
+2023-09-16 17:39:08.229024 [INFO] : Client[10](183.210.8.8:38815) in, userCount:1
+2023-09-16 17:39:08.229117 [INFO] : Client[10] in!
+2023-09-16 17:39:08.230144 [DEBUG]: [GET], [/register.html], [1.1]
+2023-09-16 17:39:08.230206 [DEBUG]: /register.html
+2023-09-16 17:39:08.230272 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//register.html
+2023-09-16 17:39:08.231047 [DEBUG]: filesize:1792, 2  to 1877
+2023-09-16 17:39:08.231165 [INFO] : Client[10] quit!
+2023-09-16 17:39:08.231224 [INFO] : Client[10](183.210.8.8:38815) quit, UserCount:0
+2023-09-16 17:39:08.309933 [INFO] : Client[10](183.210.8.8:39327) in, userCount:1
+2023-09-16 17:39:08.310023 [INFO] : Client[10] in!
+2023-09-16 17:39:08.310318 [INFO] : Client[11](183.210.8.8:39071) in, userCount:2
+2023-09-16 17:39:08.310382 [INFO] : Client[11] in!
+2023-09-16 17:39:08.311376 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-16 17:39:08.311458 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-16 17:39:08.311531 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/death-stranding-1.jpg
+2023-09-16 17:39:08.311671 [DEBUG]: filesize:270907, 2  to 270995
+2023-09-16 17:39:08.311778 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-16 17:39:08.311951 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-16 17:39:08.311995 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-16 17:39:08.312062 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-16 17:39:08.312233 [INFO] : Client[12](183.210.8.8:39583) in, userCount:3
+2023-09-16 17:39:08.312289 [INFO] : Client[12] in!
+2023-09-16 17:39:08.313144 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-16 17:39:08.313200 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-16 17:39:08.313255 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-16 17:39:08.313316 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-16 17:39:08.313463 [INFO] : Client[12] quit!
+2023-09-16 17:39:08.313528 [INFO] : Client[12](183.210.8.8:39583) quit, UserCount:2
+2023-09-16 17:39:08.494543 [INFO] : Client[10] quit!
+2023-09-16 17:39:08.494679 [INFO] : Client[10](183.210.8.8:39327) quit, UserCount:1
+2023-09-16 17:39:08.519080 [INFO] : Client[11] quit!
+2023-09-16 17:39:08.519235 [INFO] : Client[11](183.210.8.8:39071) quit, UserCount:0
+2023-09-16 17:40:08.372594 [INFO] : Client[12] quit!
+2023-09-16 17:40:08.493836 [INFO] : Client[10] quit!
+2023-09-16 17:40:08.519049 [INFO] : Client[11] quit!
+2023-09-16 19:28:03.983834 [INFO] : Client[10](223.104.149.150:52598) in, userCount:1
+2023-09-16 19:28:03.983947 [INFO] : Client[10] in!
+2023-09-16 19:28:03.989381 [DEBUG]: [GET], [/index.html], [1.1]
+2023-09-16 19:28:03.989485 [DEBUG]: /index.html
+2023-09-16 19:28:03.989539 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//index.html
+2023-09-16 19:28:03.989584 [DEBUG]: filesize:5211, 2  to 5333
+2023-09-16 19:28:04.074408 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-16 19:28:04.074507 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-16 19:28:04.074579 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-16 19:28:04.074635 [DEBUG]: filesize:242090, 2  to 242214
+2023-09-16 19:28:04.099017 [INFO] : Client[11](223.104.149.150:59254) in, userCount:2
+2023-09-16 19:28:04.099088 [INFO] : Client[11] in!
+2023-09-16 19:28:04.099450 [INFO] : Client[12](223.104.149.150:59766) in, userCount:3
+2023-09-16 19:28:04.099486 [INFO] : Client[12] in!
+2023-09-16 19:28:04.100166 [INFO] : Client[13](223.104.149.150:59510) in, userCount:4
+2023-09-16 19:28:04.100210 [INFO] : Client[13] in!
+2023-09-16 19:28:04.104450 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-16 19:28:04.104551 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-16 19:28:04.104607 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-16 19:28:04.104650 [DEBUG]: filesize:80620, 2  to 80750
+2023-09-16 19:28:04.104814 [DEBUG]: [GET], [/assets/fonts/font-awesome.min.css], [1.1]
+2023-09-16 19:28:04.104885 [DEBUG]: /assets/fonts/font-awesome.min.css
+2023-09-16 19:28:04.104948 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/fonts/font-awesome.min.css
+2023-09-16 19:28:04.105011 [DEBUG]: filesize:31000, 2  to 31123
+2023-09-16 19:28:04.106222 [DEBUG]: [GET], [/assets/js/grayscale.js], [1.1]
+2023-09-16 19:28:04.106267 [DEBUG]: /assets/js/grayscale.js
+2023-09-16 19:28:04.106319 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/js/grayscale.js
+2023-09-16 19:28:04.106367 [DEBUG]: filesize:1201, 2  to 1330
+2023-09-16 19:28:04.680051 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff2?v=4.7.0], [1.1]
+2023-09-16 19:28:04.680127 [DEBUG]: /assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+2023-09-16 19:28:04.680260 [DEBUG]: filesize:0, 1  to 254
+2023-09-16 19:28:04.680973 [DEBUG]: [GET], [/assets/img/intro-bg.jpg], [1.1]
+2023-09-16 19:28:04.681043 [DEBUG]: /assets/img/intro-bg.jpg
+2023-09-16 19:28:04.681136 [DEBUG]: [GET], [/assets/img/downloads-bg.jpg], [1.1]
+2023-09-16 19:28:04.681190 [DEBUG]: /assets/img/downloads-bg.jpg
+2023-09-16 19:28:04.681294 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/downloads-bg.jpg
+2023-09-16 19:28:04.681350 [DEBUG]: filesize:110981, 2  to 111106
+2023-09-16 19:28:04.681140 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/intro-bg.jpg
+2023-09-16 19:28:04.681613 [DEBUG]: filesize:88321, 2  to 88445
+2023-09-16 19:28:04.749364 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff?v=4.7.0], [1.1]
+2023-09-16 19:28:04.749447 [DEBUG]: /assets/fonts/fontawesome-webfont.woff?v=4.7.0
+2023-09-16 19:28:04.749480 [DEBUG]: filesize:0, 1  to 254
+2023-09-16 19:28:04.860102 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.ttf?v=4.7.0], [1.1]
+2023-09-16 19:28:04.860221 [DEBUG]: /assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+2023-09-16 19:28:04.860291 [DEBUG]: filesize:0, 1  to 254
+2023-09-16 19:28:05.169473 [DEBUG]: [GET], [/assets/img/dog.png], [1.1]
+2023-09-16 19:28:05.169554 [DEBUG]: /assets/img/dog.png
+2023-09-16 19:28:05.169603 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/dog.png
+2023-09-16 19:28:05.169651 [DEBUG]: filesize:3002, 2  to 3124
+2023-09-16 19:28:11.509929 [DEBUG]: [GET], [/assets/img/dog.png], [1.1]
+2023-09-16 19:28:11.510063 [DEBUG]: /assets/img/dog.png
+2023-09-16 19:28:11.510456 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/dog.png
+2023-09-16 19:28:11.510506 [DEBUG]: filesize:3002, 2  to 3124
+2023-09-16 19:28:38.505273 [DEBUG]: [GET], [/register.html], [1.1]
+2023-09-16 19:28:38.505365 [DEBUG]: /register.html
+2023-09-16 19:28:38.505437 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//register.html
+2023-09-16 19:28:38.505466 [DEBUG]: filesize:1792, 2  to 1914
+2023-09-16 19:28:38.560020 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-16 19:28:38.560157 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-16 19:28:38.560224 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-16 19:28:38.560260 [DEBUG]: filesize:242090, 2  to 242214
+2023-09-16 19:28:38.564483 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-16 19:28:38.564587 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-16 19:28:38.564660 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-16 19:28:38.564689 [DEBUG]: filesize:80620, 2  to 80750
+2023-09-16 19:28:38.794756 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-16 19:28:38.794948 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-16 19:28:38.795076 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/death-stranding-1.jpg
+2023-09-16 19:28:38.795124 [DEBUG]: filesize:270907, 2  to 271032
+2023-09-16 19:28:39.184249 [DEBUG]: [GET], [/assets/img/dog.png], [1.1]
+2023-09-16 19:28:39.184322 [DEBUG]: /assets/img/dog.png
+2023-09-16 19:28:39.184407 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/dog.png
+2023-09-16 19:28:39.184450 [DEBUG]: filesize:3002, 2  to 3124
+2023-09-16 19:29:04.122762 [INFO] : Client[13] quit!
+2023-09-16 19:29:04.122939 [INFO] : Client[13](223.104.149.150:59510) quit, UserCount:3
+2023-09-16 19:29:04.681588 [INFO] : Client[10] quit!
+2023-09-16 19:29:04.681748 [INFO] : Client[10](223.104.149.150:52598) quit, UserCount:2
+2023-09-16 19:29:38.300104 [DEBUG]: [GET], [/register.html], [1.1]
+2023-09-16 19:29:38.300211 [DEBUG]: /register.html
+2023-09-16 19:29:38.300284 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//register.html
+2023-09-16 19:29:38.300321 [DEBUG]: filesize:1792, 2  to 1914
+2023-09-16 19:29:38.350309 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-16 19:29:38.350433 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-16 19:29:38.350507 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-16 19:29:38.350577 [DEBUG]: filesize:242090, 2  to 242214
+2023-09-16 19:29:38.354787 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-16 19:29:38.354876 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-16 19:29:38.354952 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-16 19:29:38.355000 [DEBUG]: filesize:80620, 2  to 80750
+2023-09-16 19:29:38.414768 [INFO] : Client[10](223.104.149.150:59452) in, userCount:3
+2023-09-16 19:29:38.414948 [INFO] : Client[10] in!
+2023-09-16 19:29:38.425135 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-16 19:29:38.425242 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-16 19:29:38.425294 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/death-stranding-1.jpg
+2023-09-16 19:29:38.425343 [DEBUG]: filesize:270907, 2  to 271032
+2023-09-16 19:29:38.950594 [DEBUG]: [GET], [/assets/img/dog.png], [1.1]
+2023-09-16 19:29:38.950673 [DEBUG]: /assets/img/dog.png
+2023-09-16 19:29:38.950779 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/dog.png
+2023-09-16 19:29:38.950842 [DEBUG]: filesize:3002, 2  to 3124
+2023-09-16 19:29:50.215087 [DEBUG]: username = zp
+2023-09-16 19:29:50.215169 [DEBUG]: Tag:0
+2023-09-16 19:29:50.215191 [INFO] : Verify name:zp pwd:233
+2023-09-16 19:29:50.215245 [DEBUG]: SELECT username, password FROM user WHERE username='zp' LIMIT 1
+2023-09-16 19:29:50.215389 [DEBUG]: Body:username=zp&password=233, len:24
+2023-09-16 19:29:50.215417 [DEBUG]: [POST], [/error.html], [1.1]
+2023-09-16 19:29:50.215426 [DEBUG]: /error.html
+2023-09-16 19:29:50.215476 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//error.html
+2023-09-16 19:29:50.216389 [DEBUG]: filesize:1163, 2  to 1285
+2023-09-16 19:29:50.216647 [ERROR]: RequestLine Error
+2023-09-16 19:29:50.216741 [DEBUG]: filesize:4096, 1  to 217
+2023-09-16 19:29:50.216841 [INFO] : Client[10] quit!
+2023-09-16 19:29:50.216929 [INFO] : Client[10](223.104.149.150:59452) quit, UserCount:2
+2023-09-16 19:29:50.270900 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-16 19:29:50.270975 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-16 19:29:50.271127 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-16 19:29:50.271170 [DEBUG]: filesize:242090, 2  to 242214
+2023-09-16 19:29:50.274371 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-16 19:29:50.274442 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-16 19:29:50.274503 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-16 19:29:50.274534 [DEBUG]: filesize:80620, 2  to 80750
+2023-09-16 19:29:50.544969 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-16 19:29:50.545044 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-16 19:29:50.545138 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/death-stranding-1.jpg
+2023-09-16 19:29:50.545177 [DEBUG]: filesize:270907, 2  to 271032
+2023-09-16 19:29:51.069745 [DEBUG]: [GET], [/assets/img/dog.png], [1.1]
+2023-09-16 19:29:51.069818 [DEBUG]: /assets/img/dog.png
+2023-09-16 19:29:51.069917 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/dog.png
+2023-09-16 19:29:51.069954 [DEBUG]: filesize:3002, 2  to 3124
+2023-09-16 19:30:42.864343 [DEBUG]: [GET], [/assets/img/dog.png], [1.1]
+2023-09-16 19:30:42.864447 [DEBUG]: /assets/img/dog.png
+2023-09-16 19:30:42.864512 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/dog.png
+2023-09-16 19:30:42.864560 [DEBUG]: filesize:3002, 2  to 3124
+2023-09-16 19:30:43.844739 [DEBUG]: [GET], [/assets/img/dog.png], [1.1]
+2023-09-16 19:30:43.844816 [DEBUG]: /assets/img/dog.png
+2023-09-16 19:30:43.844908 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/dog.png
+2023-09-16 19:30:43.844947 [DEBUG]: filesize:3002, 2  to 3124
+2023-09-16 19:30:50.220377 [INFO] : Client[10] quit!
+2023-09-16 19:30:50.274591 [INFO] : Client[11] quit!
+2023-09-16 19:30:50.274779 [INFO] : Client[11](223.104.149.150:59254) quit, UserCount:1
+2023-09-16 19:31:43.890499 [INFO] : Client[12] quit!
+2023-09-16 19:31:43.890670 [INFO] : Client[12](223.104.149.150:59766) quit, UserCount:0
+2023-09-16 19:33:04.241937 [INFO] : Client[10](193.112.164.187:59178) in, userCount:1
+2023-09-16 19:33:04.242042 [INFO] : Client[10] in!
+2023-09-16 19:33:04.243795 [DEBUG]: [GET], [/index.html], [1.1]
+2023-09-16 19:33:04.243876 [DEBUG]: /index.html
+2023-09-16 19:33:04.243923 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//index.html
+2023-09-16 19:33:04.243969 [DEBUG]: filesize:5211, 2  to 5333
+2023-09-16 19:33:06.016961 [INFO] : Client[10] quit!
+2023-09-16 19:33:06.017101 [INFO] : Client[10](193.112.164.187:59178) quit, UserCount:0
+2023-09-16 19:34:04.023016 [INFO] : Client[10](180.163.29.79:23270) in, userCount:1
+2023-09-16 19:34:04.023108 [INFO] : Client[10] in!
+2023-09-16 19:34:04.024269 [DEBUG]: [GET], [/index.html], [1.1]
+2023-09-16 19:34:04.024366 [DEBUG]: /index.html
+2023-09-16 19:34:04.024426 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//index.html
+2023-09-16 19:34:04.024489 [DEBUG]: filesize:5211, 2  to 5333
+2023-09-16 19:34:04.789116 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-16 19:34:04.789176 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-16 19:34:04.789231 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-16 19:34:04.789283 [DEBUG]: filesize:80620, 2  to 80750
+2023-09-16 19:34:08.401146 [INFO] : Client[11](223.104.149.150:25077) in, userCount:2
+2023-09-16 19:34:08.401233 [INFO] : Client[11] in!
+2023-09-16 19:34:08.401906 [DEBUG]: [GET], [/index.html], [1.1]
+2023-09-16 19:34:08.401962 [DEBUG]: /index.html
+2023-09-16 19:34:08.402007 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//index.html
+2023-09-16 19:34:08.402053 [DEBUG]: filesize:5211, 2  to 5333
+2023-09-16 19:34:08.471806 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-16 19:34:08.471876 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-16 19:34:08.471962 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-16 19:34:08.472020 [DEBUG]: filesize:242090, 2  to 242214
+2023-09-16 19:34:08.502203 [INFO] : Client[12](223.104.149.150:31989) in, userCount:3
+2023-09-16 19:34:08.502340 [INFO] : Client[12] in!
+2023-09-16 19:34:08.503324 [DEBUG]: [GET], [/assets/fonts/font-awesome.min.css], [1.1]
+2023-09-16 19:34:08.503392 [DEBUG]: /assets/fonts/font-awesome.min.css
+2023-09-16 19:34:08.503445 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/fonts/font-awesome.min.css
+2023-09-16 19:34:08.503512 [DEBUG]: filesize:31000, 2  to 31123
+2023-09-16 19:34:08.508965 [INFO] : Client[13](223.104.149.150:32245) in, userCount:4
+2023-09-16 19:34:08.509065 [INFO] : Client[13] in!
+2023-09-16 19:34:08.514368 [INFO] : Client[14](223.104.149.150:32501) in, userCount:5
+2023-09-16 19:34:08.514477 [INFO] : Client[14] in!
+2023-09-16 19:34:08.520401 [DEBUG]: [GET], [/assets/js/grayscale.js], [1.1]
+2023-09-16 19:34:08.520753 [DEBUG]: /assets/js/grayscale.js
+2023-09-16 19:34:08.520871 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/js/grayscale.js
+2023-09-16 19:34:08.521004 [DEBUG]: filesize:1201, 2  to 1330
+2023-09-16 19:34:08.521286 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-16 19:34:08.521336 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-16 19:34:08.521573 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-16 19:34:08.521652 [DEBUG]: filesize:80620, 2  to 80750
+2023-09-16 19:34:08.716730 [DEBUG]: [GET], [/assets/img/intro-bg.jpg], [1.1]
+2023-09-16 19:34:08.716845 [DEBUG]: /assets/img/intro-bg.jpg
+2023-09-16 19:34:08.716932 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/intro-bg.jpg
+2023-09-16 19:34:08.716997 [DEBUG]: filesize:88321, 2  to 88445
+2023-09-16 19:34:08.723280 [DEBUG]: [GET], [/assets/img/downloads-bg.jpg], [1.1]
+2023-09-16 19:34:08.723402 [DEBUG]: /assets/img/downloads-bg.jpg
+2023-09-16 19:34:08.723509 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/downloads-bg.jpg
+2023-09-16 19:34:08.723581 [DEBUG]: filesize:110981, 2  to 111106
+2023-09-16 19:34:08.725608 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff2?v=4.7.0], [1.1]
+2023-09-16 19:34:08.725721 [DEBUG]: /assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+2023-09-16 19:34:08.725821 [DEBUG]: filesize:0, 1  to 254
+2023-09-16 19:34:08.781610 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff?v=4.7.0], [1.1]
+2023-09-16 19:34:08.781733 [DEBUG]: /assets/fonts/fontawesome-webfont.woff?v=4.7.0
+2023-09-16 19:34:08.781830 [DEBUG]: filesize:0, 1  to 254
+2023-09-16 19:34:08.831573 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.ttf?v=4.7.0], [1.1]
+2023-09-16 19:34:08.831702 [DEBUG]: /assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+2023-09-16 19:34:08.831786 [DEBUG]: filesize:0, 1  to 254
+2023-09-16 19:34:09.023344 [DEBUG]: [GET], [/assets/img/dog.png], [1.1]
+2023-09-16 19:34:09.023486 [DEBUG]: /assets/img/dog.png
+2023-09-16 19:34:09.023591 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/dog.png
+2023-09-16 19:34:09.023655 [DEBUG]: filesize:3002, 2  to 3124
+2023-09-16 19:34:31.428757 [DEBUG]: [GET], [/assets/img/dog.png], [1.1]
+2023-09-16 19:34:31.428887 [DEBUG]: /assets/img/dog.png
+2023-09-16 19:34:31.428976 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/dog.png
+2023-09-16 19:34:31.429036 [DEBUG]: filesize:3002, 2  to 3124
+2023-09-16 19:34:35.734161 [INFO] : Client[13] quit!
+2023-09-16 19:34:35.734319 [INFO] : Client[13](223.104.149.150:32245) quit, UserCount:4
+2023-09-16 19:34:35.736312 [INFO] : Client[11] quit!
+2023-09-16 19:34:35.736488 [INFO] : Client[11](223.104.149.150:25077) quit, UserCount:3
+2023-09-16 19:34:35.737311 [INFO] : Client[12] quit!
+2023-09-16 19:34:35.737416 [INFO] : Client[12](223.104.149.150:31989) quit, UserCount:2
+2023-09-16 19:34:35.740344 [INFO] : Client[14] quit!
+2023-09-16 19:34:35.740439 [INFO] : Client[14](223.104.149.150:32501) quit, UserCount:1
+2023-09-16 19:35:04.815536 [INFO] : Client[10] quit!
+2023-09-16 19:35:04.815673 [INFO] : Client[10](180.163.29.79:23270) quit, UserCount:0
+2023-09-16 19:35:08.521702 [INFO] : Client[13] quit!
+2023-09-16 19:35:08.726060 [INFO] : Client[14] quit!
+2023-09-16 19:35:08.831343 [INFO] : Client[11] quit!
+2023-09-16 19:35:31.451028 [INFO] : Client[12] quit!
+2023-09-16 19:35:34.828744 [INFO] : Client[10](180.163.29.79:9902) in, userCount:1
+2023-09-16 19:35:34.828836 [INFO] : Client[10] in!
+2023-09-16 19:35:34.829303 [DEBUG]: [GET], [/assets/js/grayscale.js], [1.1]
+2023-09-16 19:35:34.829347 [DEBUG]: /assets/js/grayscale.js
+2023-09-16 19:35:34.829393 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/js/grayscale.js
+2023-09-16 19:35:34.829437 [DEBUG]: filesize:1201, 2  to 1330
+2023-09-16 19:36:34.879767 [INFO] : Client[10] quit!
+2023-09-16 19:36:34.879908 [INFO] : Client[10](180.163.29.79:9902) quit, UserCount:0
+2023-09-16 19:42:28.516991 [INFO] : Client[10](114.132.203.210:37554) in, userCount:1
+2023-09-16 19:42:28.517103 [INFO] : Client[10] in!
+2023-09-16 19:42:28.517679 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-16 19:42:28.517761 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-16 19:42:28.517811 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/death-stranding-1.jpg
+2023-09-16 19:42:28.517873 [DEBUG]: filesize:270907, 2  to 270995
+2023-09-16 19:42:28.580489 [INFO] : Client[10] quit!
+2023-09-16 19:42:28.580638 [INFO] : Client[10](114.132.203.210:37554) quit, UserCount:0
+2023-09-16 19:42:28.911359 [INFO] : Client[10](163.177.3.219:32433) in, userCount:1
+2023-09-16 19:42:28.911455 [INFO] : Client[10] in!
+2023-09-16 19:42:28.918589 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-16 19:42:28.918683 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-16 19:42:28.918746 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/death-stranding-1.jpg
+2023-09-16 19:42:28.918790 [DEBUG]: filesize:270907, 2  to 270995
+2023-09-16 19:42:30.778666 [INFO] : Client[10] quit!
+2023-09-16 19:42:30.778816 [INFO] : Client[10](163.177.3.219:32433) quit, UserCount:0
+2023-09-16 19:43:30.833791 [INFO] : Client[10] quit!
+2023-09-16 21:09:14.573290 [INFO] : Client[10](114.132.203.153:14441) in, userCount:1
+2023-09-16 21:09:14.573392 [INFO] : Client[10] in!
+2023-09-16 21:09:14.574035 [DEBUG]: [GET], [/assets/img/intro-bg.jpg], [1.1]
+2023-09-16 21:09:14.574103 [DEBUG]: /assets/img/intro-bg.jpg
+2023-09-16 21:09:14.574133 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/intro-bg.jpg
+2023-09-16 21:09:14.574170 [DEBUG]: filesize:88321, 2  to 88408
+2023-09-16 21:09:14.574313 [INFO] : Client[10] quit!
+2023-09-16 21:09:14.574407 [INFO] : Client[10](114.132.203.153:14441) quit, UserCount:0
+2023-09-16 21:09:14.853487 [INFO] : Client[10](119.147.3.106:7810) in, userCount:1
+2023-09-16 21:09:14.853582 [INFO] : Client[10] in!
+2023-09-16 21:09:14.855164 [DEBUG]: [GET], [/assets/img/intro-bg.jpg], [1.1]
+2023-09-16 21:09:14.855259 [DEBUG]: /assets/img/intro-bg.jpg
+2023-09-16 21:09:14.855327 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/intro-bg.jpg
+2023-09-16 21:09:14.855361 [DEBUG]: filesize:88321, 2  to 88408
+2023-09-16 21:09:14.883320 [INFO] : Client[10] quit!
+2023-09-16 21:09:14.883460 [INFO] : Client[10](119.147.3.106:7810) quit, UserCount:0
+2023-09-16 21:10:14.937561 [INFO] : Client[10] quit!
+2023-09-16 21:36:44.878678 [INFO] : Client[10](183.210.8.8:8217) in, userCount:1
+2023-09-16 21:36:44.878790 [INFO] : Client[10] in!
+2023-09-16 21:36:58.108540 [INFO] : Client[11](183.210.8.8:17945) in, userCount:2
+2023-09-16 21:36:58.108615 [INFO] : Client[11] in!
+2023-09-16 21:36:58.109783 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-16 21:36:58.109854 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-16 21:36:58.109882 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-16 21:36:58.109908 [DEBUG]: filesize:242090, 2  to 242214
+2023-09-16 21:36:58.109994 [DEBUG]: [GET], [/assets/fonts/font-awesome.min.css], [1.1]
+2023-09-16 21:36:58.110031 [DEBUG]: /assets/fonts/font-awesome.min.css
+2023-09-16 21:36:58.110060 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/fonts/font-awesome.min.css
+2023-09-16 21:36:58.110082 [DEBUG]: filesize:31000, 2  to 31123
+2023-09-16 21:36:58.141725 [INFO] : Client[12](183.210.8.8:18201) in, userCount:3
+2023-09-16 21:36:58.141832 [INFO] : Client[12] in!
+2023-09-16 21:36:58.142471 [DEBUG]: [GET], [/assets/js/grayscale.js], [1.1]
+2023-09-16 21:36:58.142529 [DEBUG]: /assets/js/grayscale.js
+2023-09-16 21:36:58.142576 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/js/grayscale.js
+2023-09-16 21:36:58.142619 [DEBUG]: filesize:1201, 2  to 1330
+2023-09-16 21:36:58.144784 [INFO] : Client[13](183.210.8.8:18457) in, userCount:4
+2023-09-16 21:36:58.144839 [INFO] : Client[13] in!
+2023-09-16 21:36:58.145565 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-16 21:36:58.145611 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-16 21:36:58.145646 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-16 21:36:58.145684 [DEBUG]: filesize:80620, 2  to 80750
+2023-09-16 21:36:58.223925 [DEBUG]: [GET], [/assets/img/intro-bg.jpg], [1.1]
+2023-09-16 21:36:58.224003 [DEBUG]: /assets/img/intro-bg.jpg
+2023-09-16 21:36:58.224082 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/intro-bg.jpg
+2023-09-16 21:36:58.224126 [DEBUG]: filesize:88321, 2  to 88445
+2023-09-16 21:36:58.224432 [DEBUG]: [GET], [/assets/img/downloads-bg.jpg], [1.1]
+2023-09-16 21:36:58.224458 [DEBUG]: /assets/img/downloads-bg.jpg
+2023-09-16 21:36:58.224493 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/downloads-bg.jpg
+2023-09-16 21:36:58.224543 [DEBUG]: filesize:110981, 2  to 111106
+2023-09-16 21:36:58.266304 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff2?v=4.7.0], [1.1]
+2023-09-16 21:36:58.266407 [DEBUG]: /assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+2023-09-16 21:36:58.266488 [DEBUG]: filesize:0, 1  to 254
+2023-09-16 21:36:58.291095 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff?v=4.7.0], [1.1]
+2023-09-16 21:36:58.291262 [DEBUG]: /assets/fonts/fontawesome-webfont.woff?v=4.7.0
+2023-09-16 21:36:58.291332 [DEBUG]: filesize:0, 1  to 254
+2023-09-16 21:36:58.311875 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.ttf?v=4.7.0], [1.1]
+2023-09-16 21:36:58.311977 [DEBUG]: /assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+2023-09-16 21:36:58.312031 [DEBUG]: filesize:0, 1  to 254
+2023-09-16 21:37:01.701737 [DEBUG]: [GET], [/login.html], [1.1]
+2023-09-16 21:37:01.701843 [DEBUG]: /login.html
+2023-09-16 21:37:01.701923 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//login.html
+2023-09-16 21:37:01.701968 [DEBUG]: filesize:1790, 2  to 1912
+2023-09-16 21:37:01.747748 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-16 21:37:01.747889 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-16 21:37:01.747965 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-16 21:37:01.748026 [DEBUG]: filesize:242090, 2  to 242214
+2023-09-16 21:37:01.754048 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-16 21:37:01.754169 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-16 21:37:01.754272 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/img/death-stranding-1.jpg
+2023-09-16 21:37:01.754322 [DEBUG]: filesize:270907, 2  to 271032
+2023-09-16 21:37:01.760231 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-16 21:37:01.760326 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-16 21:37:01.760382 [DEBUG]: file path /home/ubuntu/zp/WebServer/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-16 21:37:01.760432 [DEBUG]: filesize:80620, 2  to 80750
+2023-09-16 21:37:58.199233 [INFO] : Client[13] quit!
+2023-09-16 21:37:58.199385 [INFO] : Client[13](183.210.8.8:18457) quit, UserCount:3
+2023-09-16 21:38:01.757422 [INFO] : Client[10] quit!
+2023-09-16 21:38:01.757602 [INFO] : Client[10](183.210.8.8:8217) quit, UserCount:2
+2023-09-16 21:38:01.759717 [INFO] : Client[12] quit!
+2023-09-16 21:38:01.759885 [INFO] : Client[12](183.210.8.8:18201) quit, UserCount:1

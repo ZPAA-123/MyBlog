@@ -1,0 +1,15 @@
+2023-09-14 19:16:50.510001 [info] : ========== Server init ==========
+2023-09-14 19:16:50.510024 [info] : Port:1316, OpenLinger: false
+2023-09-14 19:16:50.510030 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-09-14 19:16:50.510035 [info] : LogSys level: 1
+2023-09-14 19:16:50.510040 [info] : srcDir: /home/ubuntu/zp/WebServer/bin/resources/
+2023-09-14 19:16:50.510045 [info] : SqlConnPool num: 4, ThreadPool num: 2
+2023-09-14 19:16:50.510050 [info] : ========== Server start ==========
+2023-09-14 19:17:18.670446 [info] : Client[10](38.150.11.180:33526) in, userCount:1
+2023-09-14 19:17:18.671053 [info] : Client[10] in!
+2023-09-14 19:17:18.675804 [info] : Client[10] quit!
+2023-09-14 19:17:18.676070 [info] : Client[10](38.150.11.180:33526) quit, UserCount:0
+2023-09-14 19:17:19.410645 [info] : Client[10](38.150.11.180:34038) in, userCount:1
+2023-09-14 19:17:19.411046 [info] : Client[10] in!
+2023-09-14 19:17:19.412336 [info] : Client[10] quit!
+2023-09-14 19:17:19.412415 [info] : Client[10](38.150.11.180:34038) quit, UserCount:0
