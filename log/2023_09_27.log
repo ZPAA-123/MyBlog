@@ -1,0 +1,1348 @@
+2023-09-27 10:49:51.998513 [INFO] : ========== Server init ==========
+2023-09-27 10:49:51.998560 [INFO] : Port:1316, OpenLinger: false
+2023-09-27 10:49:51.998567 [INFO] : Listen Mode: ET, OpenConn Mode: ET
+2023-09-27 10:49:51.998573 [INFO] : LogSys level: 0
+2023-09-27 10:49:51.998579 [INFO] : srcDir: /home/ubuntu/zp/MyBlog/resources/
+2023-09-27 10:49:51.998585 [INFO] : SqlConnPool num: 4, ThreadPool num: 2
+2023-09-27 10:49:51.998591 [INFO] : ========== Server start ==========
+2023-09-27 10:50:00.962533 [INFO] : Client[10](183.210.8.8:28440) in, userCount:1
+2023-09-27 10:50:00.962664 [INFO] : Client[10] in!
+2023-09-27 10:50:00.963791 [DEBUG]: [GET], [/index.html], [1.1]
+2023-09-27 10:50:00.963845 [DEBUG]: /index.html
+2023-09-27 10:50:00.963893 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//index.html
+2023-09-27 10:50:00.967700 [INFO] : Client[12](183.210.8.8:28696) in, userCount:2
+2023-09-27 10:50:00.967773 [INFO] : Client[12] in!
+2023-09-27 10:50:00.981811 [DEBUG]: filesize:5211, 2  to 5333
+2023-09-27 10:50:01.305301 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 10:50:01.305393 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 10:50:01.305461 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 10:50:01.308968 [DEBUG]: [GET], [/assets/fonts/font-awesome.min.css], [1.1]
+2023-09-27 10:50:01.309040 [DEBUG]: /assets/fonts/font-awesome.min.css
+2023-09-27 10:50:01.309107 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/fonts/font-awesome.min.css
+2023-09-27 10:50:01.316440 [DEBUG]: filesize:31000, 2  to 31123
+2023-09-27 10:50:01.319796 [DEBUG]: filesize:242090, 2  to 242214
+2023-09-27 10:50:01.355799 [INFO] : Client[11](183.210.8.8:34328) in, userCount:3
+2023-09-27 10:50:01.355882 [INFO] : Client[11] in!
+2023-09-27 10:50:01.356716 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 10:50:01.356766 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 10:50:01.356833 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 10:50:01.357983 [INFO] : Client[14](183.210.8.8:34584) in, userCount:4
+2023-09-27 10:50:01.358051 [INFO] : Client[14] in!
+2023-09-27 10:50:01.358687 [DEBUG]: [GET], [/assets/js/grayscale.js], [1.1]
+2023-09-27 10:50:01.358753 [DEBUG]: /assets/js/grayscale.js
+2023-09-27 10:50:01.358802 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/js/grayscale.js
+2023-09-27 10:50:01.370226 [DEBUG]: filesize:80620, 2  to 80750
+2023-09-27 10:50:01.377634 [DEBUG]: filesize:1201, 2  to 1330
+2023-09-27 10:50:01.478353 [DEBUG]: [GET], [/assets/img/downloads-bg.jpg], [1.1]
+2023-09-27 10:50:01.478425 [DEBUG]: /assets/img/downloads-bg.jpg
+2023-09-27 10:50:01.478506 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/downloads-bg.jpg
+2023-09-27 10:50:01.480639 [DEBUG]: [GET], [/assets/img/intro-bg.jpg], [1.1]
+2023-09-27 10:50:01.480694 [DEBUG]: /assets/img/intro-bg.jpg
+2023-09-27 10:50:01.480756 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/intro-bg.jpg
+2023-09-27 10:50:01.494258 [DEBUG]: filesize:110981, 2  to 111106
+2023-09-27 10:50:01.496884 [DEBUG]: filesize:88321, 2  to 88445
+2023-09-27 10:50:01.526098 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff2?v=4.7.0], [1.1]
+2023-09-27 10:50:01.526167 [DEBUG]: /assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+2023-09-27 10:50:01.526226 [DEBUG]: filesize:0, 1  to 254
+2023-09-27 10:50:01.548921 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff?v=4.7.0], [1.1]
+2023-09-27 10:50:01.549037 [DEBUG]: /assets/fonts/fontawesome-webfont.woff?v=4.7.0
+2023-09-27 10:50:01.549113 [DEBUG]: filesize:0, 1  to 254
+2023-09-27 10:50:01.572551 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.ttf?v=4.7.0], [1.1]
+2023-09-27 10:50:01.572656 [DEBUG]: /assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+2023-09-27 10:50:01.572737 [DEBUG]: filesize:0, 1  to 254
+2023-09-27 10:50:01.979284 [DEBUG]: [GET], [/assets/img/dog.png], [1.1]
+2023-09-27 10:50:01.979416 [DEBUG]: /assets/img/dog.png
+2023-09-27 10:50:01.979535 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/dog.png
+2023-09-27 10:50:02.000160 [DEBUG]: filesize:3002, 2  to 3124
+2023-09-27 10:51:01.365075 [INFO] : Client[10] quit!
+2023-09-27 10:51:01.365233 [INFO] : Client[10](183.210.8.8:28440) quit, UserCount:3
+2023-09-27 10:51:01.494440 [INFO] : Client[11] quit!
+2023-09-27 10:51:01.494615 [INFO] : Client[11](183.210.8.8:34328) quit, UserCount:2
+2023-09-27 10:51:01.572827 [INFO] : Client[14] quit!
+2023-09-27 10:51:01.572994 [INFO] : Client[14](183.210.8.8:34584) quit, UserCount:1
+2023-09-27 10:51:02.000504 [INFO] : Client[12] quit!
+2023-09-27 10:51:02.000654 [INFO] : Client[12](183.210.8.8:28696) quit, UserCount:0
+2023-09-27 22:05:46.359129 [INFO] : Client[10](183.210.8.8:5400) in, userCount:1
+2023-09-27 22:05:46.359249 [INFO] : Client[10] in!
+2023-09-27 22:05:46.359803 [INFO] : Client[11](183.210.8.8:5144) in, userCount:2
+2023-09-27 22:05:46.359870 [INFO] : Client[11] in!
+2023-09-27 22:05:46.361140 [DEBUG]: [GET], [/index.html], [1.1]
+2023-09-27 22:05:46.361192 [DEBUG]: /index.html
+2023-09-27 22:05:46.361232 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//index.html
+2023-09-27 22:05:46.362165 [DEBUG]: filesize:5211, 2  to 5333
+2023-09-27 22:05:46.441765 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:05:46.441836 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:05:46.441915 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:05:46.444482 [DEBUG]: filesize:242090, 2  to 242214
+2023-09-27 22:05:46.446915 [DEBUG]: [GET], [/assets/fonts/font-awesome.min.css], [1.1]
+2023-09-27 22:05:46.447003 [DEBUG]: /assets/fonts/font-awesome.min.css
+2023-09-27 22:05:46.447058 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/fonts/font-awesome.min.css
+2023-09-27 22:05:46.448203 [DEBUG]: filesize:31000, 2  to 31123
+2023-09-27 22:05:46.488662 [INFO] : Client[12](183.210.8.8:9240) in, userCount:3
+2023-09-27 22:05:46.488730 [INFO] : Client[12] in!
+2023-09-27 22:05:46.489821 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:05:46.489873 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:05:46.489901 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:05:46.490040 [DEBUG]: [GET], [/assets/js/grayscale.js], [1.1]
+2023-09-27 22:05:46.490115 [DEBUG]: /assets/js/grayscale.js
+2023-09-27 22:05:46.490174 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/js/grayscale.js
+2023-09-27 22:05:46.490202 [DEBUG]: filesize:1201, 2  to 1330
+2023-09-27 22:05:46.493248 [INFO] : Client[14](183.210.8.8:9496) in, userCount:4
+2023-09-27 22:05:46.493303 [INFO] : Client[14] in!
+2023-09-27 22:05:46.538469 [DEBUG]: filesize:80620, 2  to 80750
+2023-09-27 22:05:46.629287 [DEBUG]: [GET], [/assets/img/intro-bg.jpg], [1.1]
+2023-09-27 22:05:46.629382 [DEBUG]: /assets/img/intro-bg.jpg
+2023-09-27 22:05:46.629495 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/intro-bg.jpg
+2023-09-27 22:05:46.629555 [DEBUG]: filesize:88321, 2  to 88445
+2023-09-27 22:05:46.630626 [DEBUG]: [GET], [/assets/img/downloads-bg.jpg], [1.1]
+2023-09-27 22:05:46.630678 [DEBUG]: /assets/img/downloads-bg.jpg
+2023-09-27 22:05:46.630756 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/downloads-bg.jpg
+2023-09-27 22:05:46.630811 [DEBUG]: filesize:110981, 2  to 111106
+2023-09-27 22:05:46.686481 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff2?v=4.7.0], [1.1]
+2023-09-27 22:05:46.686568 [DEBUG]: /assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+2023-09-27 22:05:46.686662 [DEBUG]: filesize:0, 1  to 254
+2023-09-27 22:05:46.714590 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff?v=4.7.0], [1.1]
+2023-09-27 22:05:46.714776 [DEBUG]: /assets/fonts/fontawesome-webfont.woff?v=4.7.0
+2023-09-27 22:05:46.714848 [DEBUG]: filesize:0, 1  to 254
+2023-09-27 22:05:46.739036 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.ttf?v=4.7.0], [1.1]
+2023-09-27 22:05:46.739157 [DEBUG]: /assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+2023-09-27 22:05:46.739208 [DEBUG]: filesize:0, 1  to 254
+2023-09-27 22:05:48.492347 [DEBUG]: [GET], [/login.html], [1.1]
+2023-09-27 22:05:48.492467 [DEBUG]: /login.html
+2023-09-27 22:05:48.492567 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//login.html
+2023-09-27 22:05:48.510169 [DEBUG]: filesize:1790, 2  to 1912
+2023-09-27 22:05:48.563315 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:05:48.563396 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:05:48.563480 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:05:48.563512 [DEBUG]: filesize:242090, 2  to 242214
+2023-09-27 22:05:48.572689 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-27 22:05:48.572833 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-27 22:05:48.572897 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/death-stranding-1.jpg
+2023-09-27 22:05:48.587436 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:05:48.587524 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:05:48.587604 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:05:48.587642 [DEBUG]: filesize:80620, 2  to 80750
+2023-09-27 22:05:48.588441 [DEBUG]: filesize:270907, 2  to 271032
+2023-09-27 22:05:51.690592 [DEBUG]: username = zpaa
+2023-09-27 22:05:51.690699 [DEBUG]: Tag:1
+2023-09-27 22:05:51.690745 [INFO] : Verify name:zpaa pwd:123456
+2023-09-27 22:05:51.690757 [DEBUG]: SELECT username, password FROM user WHERE username='zpaa' LIMIT 1
+2023-09-27 22:05:51.690841 [DEBUG]: Body:username=zpaa&password=123456, len:29
+2023-09-27 22:05:51.690855 [DEBUG]: [POST], [/error.html], [1.1]
+2023-09-27 22:05:51.690863 [DEBUG]: /error.html
+2023-09-27 22:05:51.690952 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//error.html
+2023-09-27 22:05:51.704172 [DEBUG]: filesize:1163, 2  to 1285
+2023-09-27 22:05:51.704536 [ERROR]: RequestLine Error
+2023-09-27 22:05:51.704611 [DEBUG]: filesize:4096, 1  to 217
+2023-09-27 22:05:51.704650 [INFO] : Client[12] quit!
+2023-09-27 22:05:51.704696 [INFO] : Client[12](183.210.8.8:9240) quit, UserCount:3
+2023-09-27 22:05:51.754204 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:05:51.754311 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:05:51.754412 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:05:51.754475 [DEBUG]: filesize:242090, 2  to 242214
+2023-09-27 22:05:51.757996 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-27 22:05:51.758079 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-27 22:05:51.758147 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/death-stranding-1.jpg
+2023-09-27 22:05:51.758194 [DEBUG]: filesize:270907, 2  to 271032
+2023-09-27 22:05:51.780561 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:05:51.780659 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:05:51.780710 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:05:51.780755 [DEBUG]: filesize:80620, 2  to 80750
+2023-09-27 22:07:56.149130 [INFO] : ========== Server init ==========
+2023-09-27 22:07:56.149178 [INFO] : Port:1316, OpenLinger: false
+2023-09-27 22:07:56.149190 [INFO] : Listen Mode: ET, OpenConn Mode: ET
+2023-09-27 22:07:56.149209 [INFO] : LogSys level: 0
+2023-09-27 22:07:56.149223 [INFO] : srcDir: /home/ubuntu/zp/MyBlog/resources/
+2023-09-27 22:07:56.149236 [INFO] : SqlConnPool num: 4, ThreadPool num: 2
+2023-09-27 22:07:56.149250 [INFO] : ========== Server start ==========
+2023-09-27 22:08:00.445428 [INFO] : Client[6](183.210.8.8:26393) in, userCount:1
+2023-09-27 22:08:00.446094 [INFO] : Client[6] in!
+2023-09-27 22:08:00.448672 [DEBUG]: [GET], [/login.html], [1.1]
+2023-09-27 22:08:00.448722 [DEBUG]: /login.html
+2023-09-27 22:08:00.448754 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//login.html
+2023-09-27 22:08:00.449404 [DEBUG]: filesize:1790, 2  to 1912
+2023-09-27 22:08:00.455433 [INFO] : Client[7](183.210.8.8:26649) in, userCount:2
+2023-09-27 22:08:00.455529 [INFO] : Client[7] in!
+2023-09-27 22:08:00.502215 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:08:00.502286 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:08:00.502330 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:08:00.504681 [DEBUG]: filesize:242090, 2  to 242214
+2023-09-27 22:08:00.508109 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-27 22:08:00.508256 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-27 22:08:00.508299 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/death-stranding-1.jpg
+2023-09-27 22:08:00.509753 [DEBUG]: filesize:270907, 2  to 271032
+2023-09-27 22:08:00.554084 [INFO] : Client[8](183.210.8.8:26905) in, userCount:3
+2023-09-27 22:08:00.554171 [INFO] : Client[8] in!
+2023-09-27 22:08:00.554877 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:08:00.554918 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:08:00.554946 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:08:00.572380 [DEBUG]: filesize:80620, 2  to 80750
+2023-09-27 22:08:03.299330 [DEBUG]: username = zpaa
+2023-09-27 22:08:03.299420 [DEBUG]: Tag:1
+2023-09-27 22:08:46.813523 [INFO] : ========== Server init ==========
+2023-09-27 22:08:46.813578 [INFO] : Port:1316, OpenLinger: false
+2023-09-27 22:08:46.813586 [INFO] : Listen Mode: ET, OpenConn Mode: ET
+2023-09-27 22:08:46.813592 [INFO] : LogSys level: 0
+2023-09-27 22:08:46.813613 [INFO] : srcDir: /home/ubuntu/zp/MyBlog/resources/
+2023-09-27 22:08:46.813625 [INFO] : SqlConnPool num: 4, ThreadPool num: 2
+2023-09-27 22:08:46.813633 [INFO] : ========== Server start ==========
+2023-09-27 22:08:50.380627 [INFO] : Client[6](183.210.8.8:1817) in, userCount:1
+2023-09-27 22:08:50.380720 [INFO] : Client[6] in!
+2023-09-27 22:08:50.381575 [DEBUG]: [GET], [/index.html], [1.1]
+2023-09-27 22:08:50.381618 [DEBUG]: /index.html
+2023-09-27 22:08:50.381645 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//index.html
+2023-09-27 22:08:50.382983 [DEBUG]: filesize:5211, 2  to 5333
+2023-09-27 22:08:50.428310 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:08:50.428385 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:08:50.428430 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:08:50.428465 [DEBUG]: filesize:242090, 2  to 242214
+2023-09-27 22:08:50.676720 [INFO] : Client[7](183.210.8.8:5913) in, userCount:2
+2023-09-27 22:08:50.677001 [INFO] : Client[7] in!
+2023-09-27 22:08:50.677660 [DEBUG]: [GET], [/assets/js/grayscale.js], [1.1]
+2023-09-27 22:08:50.677684 [DEBUG]: /assets/js/grayscale.js
+2023-09-27 22:08:50.677709 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/js/grayscale.js
+2023-09-27 22:08:50.678179 [INFO] : Client[9](183.210.8.8:5145) in, userCount:3
+2023-09-27 22:08:50.678289 [INFO] : Client[9] in!
+2023-09-27 22:08:50.678493 [DEBUG]: filesize:1201, 2  to 1330
+2023-09-27 22:08:50.678991 [DEBUG]: [GET], [/assets/fonts/font-awesome.min.css], [1.1]
+2023-09-27 22:08:50.679079 [DEBUG]: /assets/fonts/font-awesome.min.css
+2023-09-27 22:08:50.679113 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/fonts/font-awesome.min.css
+2023-09-27 22:08:50.679902 [INFO] : Client[10](183.210.8.8:4889) in, userCount:4
+2023-09-27 22:08:50.679986 [INFO] : Client[10] in!
+2023-09-27 22:08:50.680081 [DEBUG]: filesize:31000, 2  to 31123
+2023-09-27 22:08:50.680765 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:08:50.680793 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:08:50.680819 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:08:50.680847 [DEBUG]: filesize:80620, 2  to 80750
+2023-09-27 22:08:50.702883 [DEBUG]: [GET], [/assets/img/intro-bg.jpg], [1.1]
+2023-09-27 22:08:50.702963 [DEBUG]: /assets/img/intro-bg.jpg
+2023-09-27 22:08:50.703011 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/intro-bg.jpg
+2023-09-27 22:08:50.717116 [DEBUG]: filesize:88321, 2  to 88445
+2023-09-27 22:08:50.720886 [DEBUG]: [GET], [/assets/img/downloads-bg.jpg], [1.1]
+2023-09-27 22:08:50.720947 [DEBUG]: /assets/img/downloads-bg.jpg
+2023-09-27 22:08:50.721090 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/downloads-bg.jpg
+2023-09-27 22:08:50.758299 [DEBUG]: filesize:110981, 2  to 111106
+2023-09-27 22:08:50.842517 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff2?v=4.7.0], [1.1]
+2023-09-27 22:08:50.842827 [DEBUG]: /assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+2023-09-27 22:08:50.842906 [DEBUG]: filesize:0, 1  to 254
+2023-09-27 22:08:50.863747 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff?v=4.7.0], [1.1]
+2023-09-27 22:08:50.863825 [DEBUG]: /assets/fonts/fontawesome-webfont.woff?v=4.7.0
+2023-09-27 22:08:50.863858 [DEBUG]: filesize:0, 1  to 254
+2023-09-27 22:08:50.888362 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.ttf?v=4.7.0], [1.1]
+2023-09-27 22:08:50.888449 [DEBUG]: /assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+2023-09-27 22:08:50.888498 [DEBUG]: filesize:0, 1  to 254
+2023-09-27 22:08:50.925653 [INFO] : Client[8](183.210.8.8:537) in, userCount:5
+2023-09-27 22:08:50.925979 [INFO] : Client[8] in!
+2023-09-27 22:08:50.926448 [INFO] : Client[11](183.210.8.8:1049) in, userCount:6
+2023-09-27 22:08:50.926564 [INFO] : Client[11] in!
+2023-09-27 22:08:51.648480 [DEBUG]: [GET], [/assets/img/dog.png], [1.1]
+2023-09-27 22:08:51.648572 [DEBUG]: /assets/img/dog.png
+2023-09-27 22:08:51.648651 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/dog.png
+2023-09-27 22:08:51.649786 [DEBUG]: filesize:3002, 2  to 3124
+2023-09-27 22:08:52.874906 [DEBUG]: [GET], [/login.html], [1.1]
+2023-09-27 22:08:52.875263 [DEBUG]: /login.html
+2023-09-27 22:08:52.875338 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//login.html
+2023-09-27 22:08:52.875361 [DEBUG]: filesize:1790, 2  to 1912
+2023-09-27 22:08:52.930978 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:08:52.931057 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:08:52.931093 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:08:52.931139 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:08:52.931167 [DEBUG]: filesize:242090, 2  to 242214
+2023-09-27 22:08:52.931201 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:08:52.931268 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:08:52.931339 [DEBUG]: filesize:80620, 2  to 80750
+2023-09-27 22:08:52.932378 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-27 22:08:52.932452 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-27 22:08:52.932524 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/death-stranding-1.jpg
+2023-09-27 22:08:52.932572 [DEBUG]: filesize:270907, 2  to 271032
+2023-09-27 22:12:01.073920 [INFO] : ========== Server init ==========
+2023-09-27 22:12:01.073971 [INFO] : Port:1316, OpenLinger: false
+2023-09-27 22:12:01.073982 [INFO] : Listen Mode: ET, OpenConn Mode: ET
+2023-09-27 22:12:01.073988 [INFO] : LogSys level: 0
+2023-09-27 22:12:01.073995 [INFO] : srcDir: /home/ubuntu/zp/MyBlog/resources/
+2023-09-27 22:12:01.074000 [INFO] : SqlConnPool num: 4, ThreadPool num: 2
+2023-09-27 22:12:01.074006 [INFO] : ========== Server start ==========
+2023-09-27 22:12:08.043510 [INFO] : Client[6](183.210.8.8:8472) in, userCount:1
+2023-09-27 22:12:08.044380 [INFO] : Client[6] in!
+2023-09-27 22:12:08.044433 [INFO] : Client[7](183.210.8.8:8728) in, userCount:2
+2023-09-27 22:12:08.044450 [INFO] : Client[7] in!
+2023-09-27 22:12:08.045114 [DEBUG]: [GET], [/index.html], [1.1]
+2023-09-27 22:12:08.045161 [DEBUG]: /index.html
+2023-09-27 22:12:08.045190 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//index.html
+2023-09-27 22:12:08.045205 [DEBUG]: filesize:5211, 2  to 5333
+2023-09-27 22:12:08.106952 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:12:08.107034 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:12:08.107083 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:12:08.107127 [DEBUG]: filesize:242090, 2  to 242214
+2023-09-27 22:12:08.109535 [DEBUG]: [GET], [/assets/fonts/font-awesome.min.css], [1.1]
+2023-09-27 22:12:08.109590 [DEBUG]: /assets/fonts/font-awesome.min.css
+2023-09-27 22:12:08.109616 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/fonts/font-awesome.min.css
+2023-09-27 22:12:08.109645 [DEBUG]: filesize:31000, 2  to 31123
+2023-09-27 22:12:08.151523 [INFO] : Client[8](183.210.8.8:10776) in, userCount:3
+2023-09-27 22:12:08.151623 [INFO] : Client[8] in!
+2023-09-27 22:12:08.152698 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:12:08.152768 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:12:08.152808 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:12:08.152853 [DEBUG]: filesize:80620, 2  to 80750
+2023-09-27 22:12:08.157622 [INFO] : Client[9](183.210.8.8:10520) in, userCount:4
+2023-09-27 22:12:08.157729 [INFO] : Client[9] in!
+2023-09-27 22:12:08.158853 [DEBUG]: [GET], [/assets/js/grayscale.js], [1.1]
+2023-09-27 22:12:08.158911 [DEBUG]: /assets/js/grayscale.js
+2023-09-27 22:12:08.158950 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/js/grayscale.js
+2023-09-27 22:12:08.158985 [DEBUG]: filesize:1201, 2  to 1330
+2023-09-27 22:12:08.314198 [DEBUG]: [GET], [/assets/img/downloads-bg.jpg], [1.1]
+2023-09-27 22:12:08.314479 [DEBUG]: /assets/img/downloads-bg.jpg
+2023-09-27 22:12:08.314636 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/downloads-bg.jpg
+2023-09-27 22:12:08.314780 [DEBUG]: filesize:110981, 2  to 111106
+2023-09-27 22:12:08.316061 [DEBUG]: [GET], [/assets/img/intro-bg.jpg], [1.1]
+2023-09-27 22:12:08.316243 [DEBUG]: /assets/img/intro-bg.jpg
+2023-09-27 22:12:08.316447 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/intro-bg.jpg
+2023-09-27 22:12:08.316590 [DEBUG]: filesize:88321, 2  to 88445
+2023-09-27 22:12:08.364061 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff2?v=4.7.0], [1.1]
+2023-09-27 22:12:08.364132 [DEBUG]: /assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+2023-09-27 22:12:08.364327 [DEBUG]: filesize:0, 1  to 254
+2023-09-27 22:12:08.628518 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff?v=4.7.0], [1.1]
+2023-09-27 22:12:08.628824 [DEBUG]: /assets/fonts/fontawesome-webfont.woff?v=4.7.0
+2023-09-27 22:12:08.629050 [DEBUG]: filesize:0, 1  to 254
+2023-09-27 22:12:08.661055 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.ttf?v=4.7.0], [1.1]
+2023-09-27 22:12:08.661300 [DEBUG]: /assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+2023-09-27 22:12:08.661428 [DEBUG]: filesize:0, 1  to 254
+2023-09-27 22:12:12.989390 [DEBUG]: [GET], [/login.html], [1.1]
+2023-09-27 22:12:12.989726 [DEBUG]: /login.html
+2023-09-27 22:12:12.989824 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//login.html
+2023-09-27 22:12:12.989869 [DEBUG]: filesize:1790, 2  to 1912
+2023-09-27 22:12:13.037179 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:12:13.037415 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:12:13.037493 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:12:13.037538 [DEBUG]: filesize:242090, 2  to 242214
+2023-09-27 22:12:13.044593 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-27 22:12:13.044652 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-27 22:12:13.044683 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/death-stranding-1.jpg
+2023-09-27 22:12:13.044944 [DEBUG]: filesize:270907, 2  to 271032
+2023-09-27 22:12:13.056132 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:12:13.056457 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:12:13.056607 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:12:13.056709 [DEBUG]: filesize:80620, 2  to 80750
+2023-09-27 22:35:56.311525 [INFO] : ========== Server init ==========
+2023-09-27 22:35:56.311562 [INFO] : Port:1316, OpenLinger: false
+2023-09-27 22:35:56.311574 [INFO] : Listen Mode: ET, OpenConn Mode: ET
+2023-09-27 22:35:56.311582 [INFO] : LogSys level: 0
+2023-09-27 22:35:56.311590 [INFO] : srcDir: /home/ubuntu/zp/MyBlog/resources/
+2023-09-27 22:35:56.311598 [INFO] : SqlConnPool num: 4, ThreadPool num: 2
+2023-09-27 22:35:56.311606 [INFO] : ========== Server start ==========
+2023-09-27 22:36:04.927224 [INFO] : Client[10](183.210.8.8:13336) in, userCount:1
+2023-09-27 22:36:04.927357 [INFO] : Client[10] in!
+2023-09-27 22:36:04.928138 [DEBUG]: [GET], [/index.html], [1.1]
+2023-09-27 22:36:04.928191 [DEBUG]: /index.html
+2023-09-27 22:36:04.928223 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//index.html
+2023-09-27 22:36:04.928245 [DEBUG]: filesize:5211, 2  to 5296
+2023-09-27 22:36:04.928319 [INFO] : Client[10] quit!
+2023-09-27 22:36:04.928366 [INFO] : Client[10](183.210.8.8:13336) quit, UserCount:0
+2023-09-27 22:36:04.982225 [INFO] : Client[10](183.210.8.8:13592) in, userCount:1
+2023-09-27 22:36:04.982330 [INFO] : Client[10] in!
+2023-09-27 22:36:04.983467 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:36:04.983647 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:04.983698 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:04.983738 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-27 22:36:05.020976 [INFO] : Client[11](183.210.8.8:14104) in, userCount:2
+2023-09-27 22:36:05.021073 [INFO] : Client[11] in!
+2023-09-27 22:36:05.022462 [DEBUG]: [GET], [/assets/fonts/font-awesome.min.css], [1.1]
+2023-09-27 22:36:05.022544 [DEBUG]: /assets/fonts/font-awesome.min.css
+2023-09-27 22:36:05.022799 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/fonts/font-awesome.min.css
+2023-09-27 22:36:05.023063 [DEBUG]: filesize:31000, 2  to 31086
+2023-09-27 22:36:05.023292 [INFO] : Client[11] quit!
+2023-09-27 22:36:05.023402 [INFO] : Client[11](183.210.8.8:14104) quit, UserCount:1
+2023-09-27 22:36:05.030068 [INFO] : Client[11](183.210.8.8:14360) in, userCount:2
+2023-09-27 22:36:05.030151 [INFO] : Client[11] in!
+2023-09-27 22:36:05.031173 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:36:05.031348 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:05.031393 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:05.031431 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:36:05.031571 [INFO] : Client[11] quit!
+2023-09-27 22:36:05.031658 [INFO] : Client[11](183.210.8.8:14360) quit, UserCount:1
+2023-09-27 22:36:05.080827 [INFO] : Client[11](183.210.8.8:14616) in, userCount:2
+2023-09-27 22:36:05.080927 [INFO] : Client[11] in!
+2023-09-27 22:36:05.082156 [DEBUG]: [GET], [/assets/js/grayscale.js], [1.1]
+2023-09-27 22:36:05.082380 [DEBUG]: /assets/js/grayscale.js
+2023-09-27 22:36:05.082525 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/js/grayscale.js
+2023-09-27 22:36:05.082658 [DEBUG]: filesize:1201, 2  to 1293
+2023-09-27 22:36:05.082830 [INFO] : Client[11] quit!
+2023-09-27 22:36:05.082935 [INFO] : Client[11](183.210.8.8:14616) quit, UserCount:1
+2023-09-27 22:36:05.089013 [INFO] : Client[10] quit!
+2023-09-27 22:36:05.089299 [INFO] : Client[10](183.210.8.8:13592) quit, UserCount:0
+2023-09-27 22:36:05.210634 [INFO] : Client[10](183.210.8.8:14872) in, userCount:1
+2023-09-27 22:36:05.210751 [INFO] : Client[10] in!
+2023-09-27 22:36:05.211493 [DEBUG]: [GET], [/assets/img/intro-bg.jpg], [1.1]
+2023-09-27 22:36:05.211528 [DEBUG]: /assets/img/intro-bg.jpg
+2023-09-27 22:36:05.211562 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/intro-bg.jpg
+2023-09-27 22:36:05.211591 [DEBUG]: filesize:88321, 2  to 88408
+2023-09-27 22:36:05.211825 [INFO] : Client[10] quit!
+2023-09-27 22:36:05.211927 [INFO] : Client[10](183.210.8.8:14872) quit, UserCount:0
+2023-09-27 22:36:05.212841 [INFO] : Client[10](183.210.8.8:15128) in, userCount:1
+2023-09-27 22:36:05.212908 [INFO] : Client[10] in!
+2023-09-27 22:36:05.213593 [DEBUG]: [GET], [/assets/img/downloads-bg.jpg], [1.1]
+2023-09-27 22:36:05.213621 [DEBUG]: /assets/img/downloads-bg.jpg
+2023-09-27 22:36:05.213647 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/downloads-bg.jpg
+2023-09-27 22:36:05.213673 [DEBUG]: filesize:110981, 2  to 111069
+2023-09-27 22:36:05.213897 [INFO] : Client[10] quit!
+2023-09-27 22:36:05.214028 [INFO] : Client[10](183.210.8.8:15128) quit, UserCount:0
+2023-09-27 22:36:05.302826 [INFO] : Client[10](183.210.8.8:15384) in, userCount:1
+2023-09-27 22:36:05.302936 [INFO] : Client[10] in!
+2023-09-27 22:36:05.304111 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff2?v=4.7.0], [1.1]
+2023-09-27 22:36:05.304178 [DEBUG]: /assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+2023-09-27 22:36:05.304222 [DEBUG]: filesize:0, 1  to 217
+2023-09-27 22:36:05.304353 [INFO] : Client[10] quit!
+2023-09-27 22:36:05.304538 [INFO] : Client[10](183.210.8.8:15384) quit, UserCount:0
+2023-09-27 22:36:05.352919 [INFO] : Client[10](183.210.8.8:15640) in, userCount:1
+2023-09-27 22:36:05.353002 [INFO] : Client[10] in!
+2023-09-27 22:36:05.353867 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff?v=4.7.0], [1.1]
+2023-09-27 22:36:05.353911 [DEBUG]: /assets/fonts/fontawesome-webfont.woff?v=4.7.0
+2023-09-27 22:36:05.353942 [DEBUG]: filesize:0, 1  to 217
+2023-09-27 22:36:05.354104 [INFO] : Client[10] quit!
+2023-09-27 22:36:05.354304 [INFO] : Client[10](183.210.8.8:15640) quit, UserCount:0
+2023-09-27 22:36:05.412580 [INFO] : Client[10](183.210.8.8:16664) in, userCount:1
+2023-09-27 22:36:05.412678 [INFO] : Client[10] in!
+2023-09-27 22:36:05.413676 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.ttf?v=4.7.0], [1.1]
+2023-09-27 22:36:05.413733 [DEBUG]: /assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+2023-09-27 22:36:05.413767 [DEBUG]: filesize:0, 1  to 217
+2023-09-27 22:36:05.413893 [INFO] : Client[10] quit!
+2023-09-27 22:36:05.414055 [INFO] : Client[10](183.210.8.8:16664) quit, UserCount:0
+2023-09-27 22:36:07.614196 [INFO] : Client[10](183.210.8.8:17944) in, userCount:1
+2023-09-27 22:36:07.614319 [INFO] : Client[10] in!
+2023-09-27 22:36:07.615357 [DEBUG]: [GET], [/login.html], [1.1]
+2023-09-27 22:36:07.615434 [DEBUG]: /login.html
+2023-09-27 22:36:07.615470 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//login.html
+2023-09-27 22:36:07.616437 [DEBUG]: filesize:1790, 2  to 1875
+2023-09-27 22:36:07.616571 [INFO] : Client[10] quit!
+2023-09-27 22:36:07.616655 [INFO] : Client[10](183.210.8.8:17944) quit, UserCount:0
+2023-09-27 22:36:07.692755 [INFO] : Client[10](183.210.8.8:18968) in, userCount:1
+2023-09-27 22:36:07.692836 [INFO] : Client[10] in!
+2023-09-27 22:36:07.693788 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-27 22:36:07.693839 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-27 22:36:07.693871 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/death-stranding-1.jpg
+2023-09-27 22:36:07.693902 [DEBUG]: filesize:270907, 2  to 270995
+2023-09-27 22:36:07.695783 [INFO] : Client[11](183.210.8.8:18712) in, userCount:2
+2023-09-27 22:36:07.695836 [INFO] : Client[11] in!
+2023-09-27 22:36:07.696391 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:36:07.696420 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:07.696451 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:07.696472 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-27 22:36:07.721126 [INFO] : Client[12](183.210.8.8:19224) in, userCount:3
+2023-09-27 22:36:07.721226 [INFO] : Client[12] in!
+2023-09-27 22:36:07.722392 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:36:07.722490 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:07.722558 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:07.722628 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:36:07.722861 [INFO] : Client[12] quit!
+2023-09-27 22:36:07.722935 [INFO] : Client[12](183.210.8.8:19224) quit, UserCount:2
+2023-09-27 22:36:07.889473 [INFO] : Client[10] quit!
+2023-09-27 22:36:07.889735 [INFO] : Client[10](183.210.8.8:18968) quit, UserCount:1
+2023-09-27 22:36:07.906646 [INFO] : Client[11] quit!
+2023-09-27 22:36:07.906870 [INFO] : Client[11](183.210.8.8:18712) quit, UserCount:0
+2023-09-27 22:36:10.993651 [INFO] : Client[10](183.210.8.8:19992) in, userCount:1
+2023-09-27 22:36:10.993754 [INFO] : Client[10] in!
+2023-09-27 22:36:10.995029 [DEBUG]: username = zpaa
+2023-09-27 22:36:10.995115 [DEBUG]: Tag:1
+2023-09-27 22:36:10.995419 [INFO] : Verify name:zpaa pwd:123456
+2023-09-27 22:36:10.995471 [DEBUG]: SELECT username, password FROM user WHERE username='zpaa' LIMIT 1
+2023-09-27 22:36:10.996311 [DEBUG]: UserVerify success!!
+2023-09-27 22:36:10.996422 [DEBUG]: Body:username=zpaa&password=123456, len:29
+2023-09-27 22:36:10.996448 [DEBUG]: [POST], [/error.html], [1.1]
+2023-09-27 22:36:10.996511 [DEBUG]: /error.html
+2023-09-27 22:36:10.996581 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//error.html
+2023-09-27 22:36:10.997412 [DEBUG]: filesize:1163, 2  to 1248
+2023-09-27 22:36:10.997548 [INFO] : Client[10] quit!
+2023-09-27 22:36:10.997646 [INFO] : Client[10](183.210.8.8:19992) quit, UserCount:0
+2023-09-27 22:36:11.069036 [INFO] : Client[10](183.210.8.8:20248) in, userCount:1
+2023-09-27 22:36:11.069125 [INFO] : Client[10] in!
+2023-09-27 22:36:11.069979 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:36:11.070144 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:11.070220 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:11.070324 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-27 22:36:11.073655 [INFO] : Client[11](183.210.8.8:20504) in, userCount:2
+2023-09-27 22:36:11.073708 [INFO] : Client[11] in!
+2023-09-27 22:36:11.074374 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-27 22:36:11.074848 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-27 22:36:11.075124 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/death-stranding-1.jpg
+2023-09-27 22:36:11.075377 [DEBUG]: filesize:270907, 2  to 270995
+2023-09-27 22:36:11.085502 [INFO] : Client[12](183.210.8.8:21016) in, userCount:3
+2023-09-27 22:36:11.085591 [INFO] : Client[12] in!
+2023-09-27 22:36:11.086164 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:36:11.086318 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:11.086419 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:11.086521 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:36:11.086664 [INFO] : Client[12] quit!
+2023-09-27 22:36:11.086746 [INFO] : Client[12](183.210.8.8:21016) quit, UserCount:2
+2023-09-27 22:36:11.319702 [INFO] : Client[10] quit!
+2023-09-27 22:36:11.319953 [INFO] : Client[10](183.210.8.8:20248) quit, UserCount:1
+2023-09-27 22:36:11.366830 [INFO] : Client[11] quit!
+2023-09-27 22:36:11.367085 [INFO] : Client[11](183.210.8.8:20504) quit, UserCount:0
+2023-09-27 22:36:15.866408 [INFO] : Client[10](183.210.8.8:24600) in, userCount:1
+2023-09-27 22:36:15.866528 [INFO] : Client[10] in!
+2023-09-27 22:36:15.867294 [DEBUG]: [GET], [/register.html], [1.1]
+2023-09-27 22:36:15.867609 [DEBUG]: /register.html
+2023-09-27 22:36:15.867750 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//register.html
+2023-09-27 22:36:15.868542 [DEBUG]: filesize:1792, 2  to 1877
+2023-09-27 22:36:15.868703 [INFO] : Client[10] quit!
+2023-09-27 22:36:15.868817 [INFO] : Client[10](183.210.8.8:24600) quit, UserCount:0
+2023-09-27 22:36:15.936003 [INFO] : Client[10](183.210.8.8:24856) in, userCount:1
+2023-09-27 22:36:15.936124 [INFO] : Client[10] in!
+2023-09-27 22:36:15.936973 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:36:15.937069 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:15.937135 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:15.937181 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-27 22:36:15.946316 [INFO] : Client[11](183.210.8.8:25112) in, userCount:2
+2023-09-27 22:36:15.946388 [INFO] : Client[11] in!
+2023-09-27 22:36:15.947163 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-27 22:36:15.947233 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-27 22:36:15.947280 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/death-stranding-1.jpg
+2023-09-27 22:36:15.947332 [DEBUG]: filesize:270907, 2  to 270995
+2023-09-27 22:36:15.954350 [INFO] : Client[12](183.210.8.8:25368) in, userCount:3
+2023-09-27 22:36:15.954415 [INFO] : Client[12] in!
+2023-09-27 22:36:15.954971 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:36:15.955041 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:15.955091 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:15.955141 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:36:15.955275 [INFO] : Client[12] quit!
+2023-09-27 22:36:15.955349 [INFO] : Client[12](183.210.8.8:25368) quit, UserCount:2
+2023-09-27 22:36:16.132005 [INFO] : Client[11] quit!
+2023-09-27 22:36:16.132120 [INFO] : Client[11](183.210.8.8:25112) quit, UserCount:1
+2023-09-27 22:36:16.149787 [INFO] : Client[10] quit!
+2023-09-27 22:36:16.149938 [INFO] : Client[10](183.210.8.8:24856) quit, UserCount:0
+2023-09-27 22:36:19.109089 [INFO] : Client[10](183.210.8.8:25624) in, userCount:1
+2023-09-27 22:36:19.109154 [INFO] : Client[10] in!
+2023-09-27 22:36:19.109955 [DEBUG]: [POST], [/register.html], [1.1]
+2023-09-27 22:36:19.110032 [DEBUG]: /register.html
+2023-09-27 22:36:19.110070 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//register.html
+2023-09-27 22:36:19.110092 [DEBUG]: filesize:1792, 2  to 1877
+2023-09-27 22:36:19.110335 [INFO] : Client[10] quit!
+2023-09-27 22:36:19.110517 [INFO] : Client[10](183.210.8.8:25624) quit, UserCount:0
+2023-09-27 22:36:19.192652 [INFO] : Client[10](183.210.8.8:26136) in, userCount:1
+2023-09-27 22:36:19.192763 [INFO] : Client[10] in!
+2023-09-27 22:36:19.193398 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:36:19.193430 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:19.193458 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:19.193492 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-27 22:36:19.198095 [INFO] : Client[11](183.210.8.8:25880) in, userCount:2
+2023-09-27 22:36:19.198165 [INFO] : Client[11] in!
+2023-09-27 22:36:19.198767 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-27 22:36:19.198799 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-27 22:36:19.198823 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/death-stranding-1.jpg
+2023-09-27 22:36:19.198847 [DEBUG]: filesize:270907, 2  to 270995
+2023-09-27 22:36:19.212937 [INFO] : Client[12](183.210.8.8:26392) in, userCount:3
+2023-09-27 22:36:19.213098 [INFO] : Client[12] in!
+2023-09-27 22:36:19.213923 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:36:19.214143 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:19.214288 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:19.214472 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:36:19.214688 [INFO] : Client[12] quit!
+2023-09-27 22:36:19.214854 [INFO] : Client[12](183.210.8.8:26392) quit, UserCount:2
+2023-09-27 22:36:19.461461 [INFO] : Client[10] quit!
+2023-09-27 22:36:19.461762 [INFO] : Client[10](183.210.8.8:26136) quit, UserCount:1
+2023-09-27 22:36:19.605591 [INFO] : Client[11] quit!
+2023-09-27 22:36:19.605907 [INFO] : Client[11](183.210.8.8:25880) quit, UserCount:0
+2023-09-27 22:36:22.065626 [INFO] : Client[10](183.210.8.8:27160) in, userCount:1
+2023-09-27 22:36:22.065694 [INFO] : Client[10] in!
+2023-09-27 22:36:22.067115 [DEBUG]: [POST], [/register.html], [1.1]
+2023-09-27 22:36:22.067327 [DEBUG]: /register.html
+2023-09-27 22:36:22.067427 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//register.html
+2023-09-27 22:36:22.067543 [DEBUG]: filesize:1792, 2  to 1877
+2023-09-27 22:36:22.067745 [INFO] : Client[10] quit!
+2023-09-27 22:36:22.067927 [INFO] : Client[10](183.210.8.8:27160) quit, UserCount:0
+2023-09-27 22:36:22.134540 [INFO] : Client[10](183.210.8.8:27416) in, userCount:1
+2023-09-27 22:36:22.134615 [INFO] : Client[10] in!
+2023-09-27 22:36:22.136101 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:36:22.136206 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:22.136500 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:22.136690 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-27 22:36:22.154873 [INFO] : Client[11](183.210.8.8:28184) in, userCount:2
+2023-09-27 22:36:22.154968 [INFO] : Client[11] in!
+2023-09-27 22:36:22.155698 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:36:22.155811 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:22.155904 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:22.156014 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:36:22.156231 [INFO] : Client[11] quit!
+2023-09-27 22:36:22.156331 [INFO] : Client[11](183.210.8.8:28184) quit, UserCount:1
+2023-09-27 22:36:22.355952 [INFO] : Client[10] quit!
+2023-09-27 22:36:22.356199 [INFO] : Client[10](183.210.8.8:27416) quit, UserCount:0
+2023-09-27 22:36:22.816008 [INFO] : Client[10](183.210.8.8:28440) in, userCount:1
+2023-09-27 22:36:22.816082 [INFO] : Client[10] in!
+2023-09-27 22:36:22.816675 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-27 22:36:22.816967 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-27 22:36:22.817195 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/death-stranding-1.jpg
+2023-09-27 22:36:22.817335 [DEBUG]: filesize:270907, 2  to 270995
+2023-09-27 22:36:23.989280 [INFO] : Client[10] quit!
+2023-09-27 22:36:23.989727 [INFO] : Client[10](183.210.8.8:28440) quit, UserCount:0
+2023-09-27 22:36:26.246594 [INFO] : Client[10](183.210.8.8:29208) in, userCount:1
+2023-09-27 22:36:26.246691 [INFO] : Client[10] in!
+2023-09-27 22:36:26.247858 [DEBUG]: [POST], [/register.html], [1.1]
+2023-09-27 22:36:26.247945 [DEBUG]: /register.html
+2023-09-27 22:36:26.248012 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//register.html
+2023-09-27 22:36:26.248063 [DEBUG]: filesize:1792, 2  to 1877
+2023-09-27 22:36:26.248134 [INFO] : Client[10] quit!
+2023-09-27 22:36:26.248192 [INFO] : Client[10](183.210.8.8:29208) quit, UserCount:0
+2023-09-27 22:36:26.309745 [INFO] : Client[10](183.210.8.8:29720) in, userCount:1
+2023-09-27 22:36:26.309824 [INFO] : Client[10] in!
+2023-09-27 22:36:26.310696 [INFO] : Client[11](183.210.8.8:29464) in, userCount:2
+2023-09-27 22:36:26.310811 [INFO] : Client[11] in!
+2023-09-27 22:36:26.310988 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:36:26.311244 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:26.311388 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:26.311527 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:36:26.311566 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:36:26.311688 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:26.311730 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:26.311757 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-27 22:36:26.311896 [INFO] : Client[10] quit!
+2023-09-27 22:36:26.312050 [INFO] : Client[10](183.210.8.8:29720) quit, UserCount:1
+2023-09-27 22:36:26.489760 [INFO] : Client[11] quit!
+2023-09-27 22:36:26.489907 [INFO] : Client[11](183.210.8.8:29464) quit, UserCount:0
+2023-09-27 22:36:26.589233 [INFO] : Client[10](183.210.8.8:29976) in, userCount:1
+2023-09-27 22:36:26.589315 [INFO] : Client[10] in!
+2023-09-27 22:36:26.589951 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-27 22:36:26.590240 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-27 22:36:26.590418 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/death-stranding-1.jpg
+2023-09-27 22:36:26.590587 [DEBUG]: filesize:270907, 2  to 270995
+2023-09-27 22:36:28.008079 [INFO] : Client[10] quit!
+2023-09-27 22:36:28.008481 [INFO] : Client[10](183.210.8.8:29976) quit, UserCount:0
+2023-09-27 22:36:33.554891 [INFO] : Client[10](183.210.8.8:30744) in, userCount:1
+2023-09-27 22:36:33.555033 [INFO] : Client[10] in!
+2023-09-27 22:36:33.555838 [DEBUG]: [GET], [/index.html], [1.1]
+2023-09-27 22:36:33.556052 [DEBUG]: /index.html
+2023-09-27 22:36:33.556136 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//index.html
+2023-09-27 22:36:33.556291 [DEBUG]: filesize:5211, 2  to 5296
+2023-09-27 22:36:33.556439 [INFO] : Client[10] quit!
+2023-09-27 22:36:33.556508 [INFO] : Client[10](183.210.8.8:30744) quit, UserCount:0
+2023-09-27 22:36:33.604017 [INFO] : Client[10](183.210.8.8:34072) in, userCount:1
+2023-09-27 22:36:33.604110 [INFO] : Client[10] in!
+2023-09-27 22:36:33.604791 [DEBUG]: [GET], [/index.html], [1.1]
+2023-09-27 22:36:33.604826 [DEBUG]: /index.html
+2023-09-27 22:36:33.604850 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//index.html
+2023-09-27 22:36:33.604872 [DEBUG]: filesize:5211, 2  to 5296
+2023-09-27 22:36:33.604975 [INFO] : Client[10] quit!
+2023-09-27 22:36:33.605072 [INFO] : Client[10](183.210.8.8:34072) quit, UserCount:0
+2023-09-27 22:36:33.606251 [INFO] : Client[10](183.210.8.8:34328) in, userCount:1
+2023-09-27 22:36:33.606301 [INFO] : Client[10] in!
+2023-09-27 22:36:33.607105 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:36:33.607220 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:33.607349 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:33.607454 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-27 22:36:33.649074 [INFO] : Client[11](183.210.8.8:34584) in, userCount:2
+2023-09-27 22:36:33.649173 [INFO] : Client[11] in!
+2023-09-27 22:36:33.650337 [DEBUG]: [GET], [/assets/fonts/font-awesome.min.css], [1.1]
+2023-09-27 22:36:33.650422 [DEBUG]: /assets/fonts/font-awesome.min.css
+2023-09-27 22:36:33.650603 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/fonts/font-awesome.min.css
+2023-09-27 22:36:33.650784 [DEBUG]: filesize:31000, 2  to 31086
+2023-09-27 22:36:33.650967 [INFO] : Client[11] quit!
+2023-09-27 22:36:33.651117 [INFO] : Client[11](183.210.8.8:34584) quit, UserCount:1
+2023-09-27 22:36:33.661480 [INFO] : Client[11](183.210.8.8:34840) in, userCount:2
+2023-09-27 22:36:33.661540 [INFO] : Client[11] in!
+2023-09-27 22:36:33.662219 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:36:33.662394 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:33.662561 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:33.662696 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:36:33.662928 [INFO] : Client[11] quit!
+2023-09-27 22:36:33.663084 [INFO] : Client[11](183.210.8.8:34840) quit, UserCount:1
+2023-09-27 22:36:33.677482 [INFO] : Client[11](183.210.8.8:35096) in, userCount:2
+2023-09-27 22:36:33.677587 [INFO] : Client[11] in!
+2023-09-27 22:36:33.678498 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:36:33.678737 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:33.678982 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:33.679141 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-27 22:36:33.707966 [INFO] : Client[12](183.210.8.8:35352) in, userCount:3
+2023-09-27 22:36:33.708046 [INFO] : Client[12] in!
+2023-09-27 22:36:33.708660 [DEBUG]: [GET], [/assets/fonts/font-awesome.min.css], [1.1]
+2023-09-27 22:36:33.708794 [DEBUG]: /assets/fonts/font-awesome.min.css
+2023-09-27 22:36:33.708835 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/fonts/font-awesome.min.css
+2023-09-27 22:36:33.708860 [DEBUG]: filesize:31000, 2  to 31086
+2023-09-27 22:36:33.708922 [INFO] : Client[12] quit!
+2023-09-27 22:36:33.709018 [INFO] : Client[12](183.210.8.8:35352) quit, UserCount:2
+2023-09-27 22:36:33.741843 [INFO] : Client[12](183.210.8.8:35608) in, userCount:3
+2023-09-27 22:36:33.741956 [INFO] : Client[12] in!
+2023-09-27 22:36:33.742591 [INFO] : Client[13](183.210.8.8:35864) in, userCount:4
+2023-09-27 22:36:33.742653 [INFO] : Client[13] in!
+2023-09-27 22:36:33.742806 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:36:33.742865 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:33.742904 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:33.742938 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:36:33.743160 [INFO] : Client[12] quit!
+2023-09-27 22:36:33.743262 [INFO] : Client[12](183.210.8.8:35608) quit, UserCount:3
+2023-09-27 22:36:33.743937 [DEBUG]: [GET], [/assets/js/grayscale.js], [1.1]
+2023-09-27 22:36:33.744108 [DEBUG]: /assets/js/grayscale.js
+2023-09-27 22:36:33.744217 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/js/grayscale.js
+2023-09-27 22:36:33.744324 [DEBUG]: filesize:1201, 2  to 1293
+2023-09-27 22:36:33.744435 [INFO] : Client[13] quit!
+2023-09-27 22:36:33.744550 [INFO] : Client[13](183.210.8.8:35864) quit, UserCount:2
+2023-09-27 22:36:33.879668 [INFO] : Client[10] quit!
+2023-09-27 22:36:33.879893 [INFO] : Client[10](183.210.8.8:34328) quit, UserCount:1
+2023-09-27 22:36:34.189611 [INFO] : Client[10](183.210.8.8:36120) in, userCount:2
+2023-09-27 22:36:34.189681 [INFO] : Client[10] in!
+2023-09-27 22:36:34.190346 [DEBUG]: [GET], [/assets/js/grayscale.js], [1.1]
+2023-09-27 22:36:34.190615 [DEBUG]: /assets/js/grayscale.js
+2023-09-27 22:36:34.190802 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/js/grayscale.js
+2023-09-27 22:36:34.190962 [DEBUG]: filesize:1201, 2  to 1293
+2023-09-27 22:36:34.191156 [INFO] : Client[10] quit!
+2023-09-27 22:36:34.191336 [INFO] : Client[10](183.210.8.8:36120) quit, UserCount:1
+2023-09-27 22:36:34.304558 [INFO] : Client[11] quit!
+2023-09-27 22:36:34.304714 [INFO] : Client[11](183.210.8.8:35096) quit, UserCount:0
+2023-09-27 22:36:34.801588 [INFO] : Client[10](183.210.8.8:39960) in, userCount:1
+2023-09-27 22:36:34.801666 [INFO] : Client[10] in!
+2023-09-27 22:36:34.802310 [INFO] : Client[11](183.210.8.8:38936) in, userCount:2
+2023-09-27 22:36:34.802370 [INFO] : Client[11] in!
+2023-09-27 22:36:34.803070 [DEBUG]: [GET], [/assets/img/downloads-bg.jpg], [1.1]
+2023-09-27 22:36:34.803185 [DEBUG]: /assets/img/downloads-bg.jpg
+2023-09-27 22:36:34.803245 [DEBUG]: [GET], [/assets/img/intro-bg.jpg], [1.1]
+2023-09-27 22:36:34.803394 [DEBUG]: /assets/img/intro-bg.jpg
+2023-09-27 22:36:34.803395 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/downloads-bg.jpg
+2023-09-27 22:36:34.803519 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/intro-bg.jpg
+2023-09-27 22:36:34.803738 [DEBUG]: filesize:110981, 2  to 111069
+2023-09-27 22:36:34.803742 [DEBUG]: filesize:88321, 2  to 88408
+2023-09-27 22:36:34.804076 [INFO] : Client[11] quit!
+2023-09-27 22:36:34.804136 [INFO] : Client[10] quit!
+2023-09-27 22:36:34.804272 [INFO] : Client[11](183.210.8.8:38936) quit, UserCount:1
+2023-09-27 22:36:34.804349 [INFO] : Client[10](183.210.8.8:39960) quit, UserCount:0
+2023-09-27 22:36:34.877196 [INFO] : Client[10](183.210.8.8:40472) in, userCount:1
+2023-09-27 22:36:34.877283 [INFO] : Client[10] in!
+2023-09-27 22:36:34.877968 [DEBUG]: [GET], [/assets/img/intro-bg.jpg], [1.1]
+2023-09-27 22:36:34.878130 [DEBUG]: /assets/img/intro-bg.jpg
+2023-09-27 22:36:34.878234 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/intro-bg.jpg
+2023-09-27 22:36:34.878347 [DEBUG]: filesize:88321, 2  to 88408
+2023-09-27 22:36:34.878349 [INFO] : Client[12](183.210.8.8:40216) in, userCount:2
+2023-09-27 22:36:34.878527 [INFO] : Client[12] in!
+2023-09-27 22:36:34.878777 [INFO] : Client[10] quit!
+2023-09-27 22:36:34.878921 [INFO] : Client[10](183.210.8.8:40472) quit, UserCount:1
+2023-09-27 22:36:34.879619 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff2?v=4.7.0], [1.1]
+2023-09-27 22:36:34.879719 [DEBUG]: /assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+2023-09-27 22:36:34.879811 [DEBUG]: filesize:0, 1  to 217
+2023-09-27 22:36:34.879913 [INFO] : Client[12] quit!
+2023-09-27 22:36:34.880015 [INFO] : Client[12](183.210.8.8:40216) quit, UserCount:0
+2023-09-27 22:36:34.910141 [INFO] : Client[10](183.210.8.8:40728) in, userCount:1
+2023-09-27 22:36:34.910207 [INFO] : Client[10] in!
+2023-09-27 22:36:34.911248 [DEBUG]: [GET], [/assets/img/downloads-bg.jpg], [1.1]
+2023-09-27 22:36:34.911347 [DEBUG]: /assets/img/downloads-bg.jpg
+2023-09-27 22:36:34.911472 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/downloads-bg.jpg
+2023-09-27 22:36:34.911557 [DEBUG]: filesize:110981, 2  to 111069
+2023-09-27 22:36:34.911724 [INFO] : Client[10] quit!
+2023-09-27 22:36:34.911820 [INFO] : Client[10](183.210.8.8:40728) quit, UserCount:0
+2023-09-27 22:36:34.951102 [INFO] : Client[10](183.210.8.8:40984) in, userCount:1
+2023-09-27 22:36:34.951199 [INFO] : Client[10] in!
+2023-09-27 22:36:34.951838 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff2?v=4.7.0], [1.1]
+2023-09-27 22:36:34.951875 [DEBUG]: /assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+2023-09-27 22:36:34.952003 [DEBUG]: filesize:0, 1  to 217
+2023-09-27 22:36:34.952126 [INFO] : Client[10] quit!
+2023-09-27 22:36:34.952256 [INFO] : Client[10](183.210.8.8:40984) quit, UserCount:0
+2023-09-27 22:36:34.981732 [INFO] : Client[10](183.210.8.8:41240) in, userCount:1
+2023-09-27 22:36:34.981822 [INFO] : Client[10] in!
+2023-09-27 22:36:34.982796 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff?v=4.7.0], [1.1]
+2023-09-27 22:36:34.983024 [DEBUG]: /assets/fonts/fontawesome-webfont.woff?v=4.7.0
+2023-09-27 22:36:34.983160 [DEBUG]: filesize:0, 1  to 217
+2023-09-27 22:36:34.983305 [INFO] : Client[10] quit!
+2023-09-27 22:36:34.983448 [INFO] : Client[10](183.210.8.8:41240) quit, UserCount:0
+2023-09-27 22:36:35.070188 [INFO] : Client[10](183.210.8.8:41496) in, userCount:1
+2023-09-27 22:36:35.070296 [INFO] : Client[10] in!
+2023-09-27 22:36:35.071071 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff?v=4.7.0], [1.1]
+2023-09-27 22:36:35.071249 [DEBUG]: /assets/fonts/fontawesome-webfont.woff?v=4.7.0
+2023-09-27 22:36:35.071394 [DEBUG]: filesize:0, 1  to 217
+2023-09-27 22:36:35.071531 [INFO] : Client[10] quit!
+2023-09-27 22:36:35.071591 [INFO] : Client[10](183.210.8.8:41496) quit, UserCount:0
+2023-09-27 22:36:35.099816 [INFO] : Client[10](183.210.8.8:42264) in, userCount:1
+2023-09-27 22:36:35.099944 [INFO] : Client[10] in!
+2023-09-27 22:36:35.100673 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.ttf?v=4.7.0], [1.1]
+2023-09-27 22:36:35.100725 [DEBUG]: /assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+2023-09-27 22:36:35.100767 [DEBUG]: filesize:0, 1  to 217
+2023-09-27 22:36:35.100932 [INFO] : Client[10] quit!
+2023-09-27 22:36:35.101073 [INFO] : Client[10](183.210.8.8:42264) quit, UserCount:0
+2023-09-27 22:36:35.174072 [INFO] : Client[10](183.210.8.8:42776) in, userCount:1
+2023-09-27 22:36:35.174149 [INFO] : Client[10] in!
+2023-09-27 22:36:35.174831 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.ttf?v=4.7.0], [1.1]
+2023-09-27 22:36:35.174979 [DEBUG]: /assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+2023-09-27 22:36:35.175084 [DEBUG]: filesize:0, 1  to 217
+2023-09-27 22:36:35.175199 [INFO] : Client[10] quit!
+2023-09-27 22:36:35.175298 [INFO] : Client[10](183.210.8.8:42776) quit, UserCount:0
+2023-09-27 22:36:37.584307 [INFO] : Client[10](183.210.8.8:48664) in, userCount:1
+2023-09-27 22:36:37.584375 [INFO] : Client[10] in!
+2023-09-27 22:36:37.584963 [DEBUG]: [GET], [/login.html], [1.1]
+2023-09-27 22:36:37.585143 [DEBUG]: /login.html
+2023-09-27 22:36:37.585258 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//login.html
+2023-09-27 22:36:37.585346 [DEBUG]: filesize:1790, 2  to 1875
+2023-09-27 22:36:37.585480 [INFO] : Client[10] quit!
+2023-09-27 22:36:37.585604 [INFO] : Client[10](183.210.8.8:48664) quit, UserCount:0
+2023-09-27 22:36:37.660459 [INFO] : Client[10](183.210.8.8:49432) in, userCount:1
+2023-09-27 22:36:37.660530 [INFO] : Client[10] in!
+2023-09-27 22:36:37.661106 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-27 22:36:37.661261 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-27 22:36:37.661358 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/death-stranding-1.jpg
+2023-09-27 22:36:37.661461 [DEBUG]: filesize:270907, 2  to 270995
+2023-09-27 22:36:37.661625 [INFO] : Client[11](183.210.8.8:49176) in, userCount:2
+2023-09-27 22:36:37.661681 [INFO] : Client[11] in!
+2023-09-27 22:36:37.662596 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:36:37.662793 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:37.662930 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:37.663036 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-27 22:36:37.677719 [INFO] : Client[12](183.210.8.8:49688) in, userCount:3
+2023-09-27 22:36:37.677874 [INFO] : Client[12] in!
+2023-09-27 22:36:37.679030 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:36:37.679229 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:37.679364 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:37.679492 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:36:37.679720 [INFO] : Client[12] quit!
+2023-09-27 22:36:37.679882 [INFO] : Client[12](183.210.8.8:49688) quit, UserCount:2
+2023-09-27 22:36:37.841332 [INFO] : Client[10] quit!
+2023-09-27 22:36:37.841496 [INFO] : Client[10](183.210.8.8:49432) quit, UserCount:1
+2023-09-27 22:36:38.009980 [INFO] : Client[11] quit!
+2023-09-27 22:36:38.010324 [INFO] : Client[11](183.210.8.8:49176) quit, UserCount:0
+2023-09-27 22:36:40.274481 [INFO] : Client[10](183.210.8.8:51736) in, userCount:1
+2023-09-27 22:36:40.274575 [INFO] : Client[10] in!
+2023-09-27 22:36:40.275539 [DEBUG]: username = zpaa
+2023-09-27 22:36:40.275678 [DEBUG]: Tag:1
+2023-09-27 22:36:40.275771 [INFO] : Verify name:zpaa pwd:123456
+2023-09-27 22:36:40.275855 [DEBUG]: SELECT username, password FROM user WHERE username='zpaa' LIMIT 1
+2023-09-27 22:36:40.276496 [DEBUG]: UserVerify success!!
+2023-09-27 22:36:40.276613 [DEBUG]: Body:username=zpaa&password=123456, len:29
+2023-09-27 22:36:40.276741 [DEBUG]: [POST], [/error.html], [1.1]
+2023-09-27 22:36:40.276826 [DEBUG]: /error.html
+2023-09-27 22:36:40.276903 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//error.html
+2023-09-27 22:36:40.276977 [DEBUG]: filesize:1163, 2  to 1248
+2023-09-27 22:36:40.277068 [INFO] : Client[10] quit!
+2023-09-27 22:36:40.277117 [INFO] : Client[10](183.210.8.8:51736) quit, UserCount:0
+2023-09-27 22:36:40.350297 [INFO] : Client[10](183.210.8.8:51992) in, userCount:1
+2023-09-27 22:36:40.350420 [INFO] : Client[10] in!
+2023-09-27 22:36:40.351325 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:36:40.351528 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:40.351661 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:36:40.351833 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-27 22:36:40.356770 [INFO] : Client[11](183.210.8.8:52504) in, userCount:2
+2023-09-27 22:36:40.356840 [INFO] : Client[11] in!
+2023-09-27 22:36:40.357579 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-27 22:36:40.357737 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-27 22:36:40.357870 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/death-stranding-1.jpg
+2023-09-27 22:36:40.358000 [DEBUG]: filesize:270907, 2  to 270995
+2023-09-27 22:36:40.377385 [INFO] : Client[12](183.210.8.8:52760) in, userCount:3
+2023-09-27 22:36:40.377450 [INFO] : Client[12] in!
+2023-09-27 22:36:40.378313 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:36:40.378637 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:40.378831 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:36:40.378898 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:36:40.379089 [INFO] : Client[12] quit!
+2023-09-27 22:36:40.379159 [INFO] : Client[12](183.210.8.8:52760) quit, UserCount:2
+2023-09-27 22:36:40.534324 [INFO] : Client[11] quit!
+2023-09-27 22:36:40.534681 [INFO] : Client[11](183.210.8.8:52504) quit, UserCount:1
+2023-09-27 22:36:40.546841 [INFO] : Client[10] quit!
+2023-09-27 22:36:40.546939 [INFO] : Client[10](183.210.8.8:51992) quit, UserCount:0
+2023-09-27 22:37:07.069626 [INFO] : Client[10](183.210.8.8:56856) in, userCount:1
+2023-09-27 22:37:07.069969 [INFO] : Client[10] in!
+2023-09-27 22:37:07.070772 [DEBUG]: username = zpaa
+2023-09-27 22:37:07.070809 [DEBUG]: Tag:0
+2023-09-27 22:37:07.070834 [INFO] : Verify name:zpaa pwd:123456
+2023-09-27 22:37:07.070852 [DEBUG]: SELECT username, password FROM user WHERE username='zpaa' LIMIT 1
+2023-09-27 22:37:07.071522 [DEBUG]: regirster!
+2023-09-27 22:37:07.071570 [DEBUG]: INSERT INTO user(username, password) VALUES('zpaa','123456')
+2023-09-27 22:37:07.079680 [DEBUG]: UserVerify success!!
+2023-09-27 22:37:07.079741 [DEBUG]: Body:username=zpaa&password=123456, len:29
+2023-09-27 22:37:07.079770 [DEBUG]: [POST], [/welcome.html], [1.1]
+2023-09-27 22:37:07.079788 [DEBUG]: /welcome.html
+2023-09-27 22:37:07.079829 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//welcome.html
+2023-09-27 22:37:07.096688 [DEBUG]: filesize:3831, 2  to 3916
+2023-09-27 22:37:07.096868 [INFO] : Client[10] quit!
+2023-09-27 22:37:07.096951 [INFO] : Client[10](183.210.8.8:56856) quit, UserCount:0
+2023-09-27 22:37:07.162541 [INFO] : Client[10](183.210.8.8:57624) in, userCount:1
+2023-09-27 22:37:07.162793 [INFO] : Client[10] in!
+2023-09-27 22:37:07.164912 [DEBUG]: [GET], [/weassets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:37:07.164969 [DEBUG]: /weassets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:37:07.166484 [INFO] : Client[11](183.210.8.8:58136) in, userCount:2
+2023-09-27 22:37:07.166549 [INFO] : Client[11] in!
+2023-09-27 22:37:07.166722 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//weassets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:37:07.167905 [DEBUG]: [GET], [/weassets/fonts/font-awesome.min.css], [1.1]
+2023-09-27 22:37:07.167948 [DEBUG]: /weassets/fonts/font-awesome.min.css
+2023-09-27 22:37:07.168542 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//weassets/fonts/font-awesome.min.css
+2023-09-27 22:37:07.178333 [INFO] : Client[14](183.210.8.8:58648) in, userCount:3
+2023-09-27 22:37:07.178408 [INFO] : Client[14] in!
+2023-09-27 22:37:07.178942 [INFO] : Client[15](183.210.8.8:58904) in, userCount:4
+2023-09-27 22:37:07.178998 [INFO] : Client[15] in!
+2023-09-27 22:37:07.181447 [DEBUG]: filesize:244420, 2  to 244507
+2023-09-27 22:37:07.182020 [DEBUG]: [GET], [/weassets/js/clean-blog.js], [1.1]
+2023-09-27 22:37:07.182053 [DEBUG]: /weassets/js/clean-blog.js
+2023-09-27 22:37:07.182157 [DEBUG]: filesize:31000, 2  to 31086
+2023-09-27 22:37:07.182608 [DEBUG]: [GET], [/weassets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:37:07.182628 [DEBUG]: /weassets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:37:07.182849 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//weassets/js/clean-blog.js
+2023-09-27 22:37:07.183161 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//weassets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:37:07.183554 [DEBUG]: filesize:1173, 2  to 1265
+2023-09-27 22:37:07.195731 [INFO] : Client[11] quit!
+2023-09-27 22:37:07.195879 [INFO] : Client[11](183.210.8.8:58136) quit, UserCount:3
+2023-09-27 22:37:07.196055 [INFO] : Client[14] quit!
+2023-09-27 22:37:07.196108 [INFO] : Client[14](183.210.8.8:58648) quit, UserCount:2
+2023-09-27 22:37:07.207685 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:37:07.207979 [INFO] : Client[15] quit!
+2023-09-27 22:37:07.208148 [INFO] : Client[15](183.210.8.8:58904) quit, UserCount:1
+2023-09-27 22:37:07.383735 [INFO] : Client[10] quit!
+2023-09-27 22:37:07.384115 [INFO] : Client[10](183.210.8.8:57624) quit, UserCount:0
+2023-09-27 22:37:07.497979 [INFO] : Client[10](183.210.8.8:59160) in, userCount:1
+2023-09-27 22:37:07.498106 [INFO] : Client[10] in!
+2023-09-27 22:37:07.498916 [DEBUG]: [GET], [/weassets/img/home-bg.jpg], [1.1]
+2023-09-27 22:37:07.498975 [DEBUG]: /weassets/img/home-bg.jpg
+2023-09-27 22:37:07.499733 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//weassets/img/home-bg.jpg
+2023-09-27 22:37:07.519479 [DEBUG]: filesize:106050, 2  to 106138
+2023-09-27 22:37:07.519883 [INFO] : Client[10] quit!
+2023-09-27 22:37:07.520008 [INFO] : Client[10](183.210.8.8:59160) quit, UserCount:0
+2023-09-27 22:37:14.573070 [INFO] : Client[10](183.210.8.8:64792) in, userCount:1
+2023-09-27 22:37:14.573224 [INFO] : Client[10] in!
+2023-09-27 22:37:14.573898 [DEBUG]: [GET], [/index.html], [1.1]
+2023-09-27 22:37:14.574115 [DEBUG]: /index.html
+2023-09-27 22:37:14.574181 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//index.html
+2023-09-27 22:37:14.574219 [DEBUG]: filesize:5211, 2  to 5296
+2023-09-27 22:37:14.574309 [INFO] : Client[10] quit!
+2023-09-27 22:37:14.574391 [INFO] : Client[10](183.210.8.8:64792) quit, UserCount:0
+2023-09-27 22:37:14.633194 [INFO] : Client[10](183.210.8.8:65048) in, userCount:1
+2023-09-27 22:37:14.633387 [INFO] : Client[10] in!
+2023-09-27 22:37:14.634559 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:37:14.634619 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:37:14.634755 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:37:14.634936 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-27 22:37:14.665941 [INFO] : Client[11](183.210.8.8:65304) in, userCount:2
+2023-09-27 22:37:14.666042 [INFO] : Client[11] in!
+2023-09-27 22:37:14.666829 [DEBUG]: [GET], [/assets/fonts/font-awesome.min.css], [1.1]
+2023-09-27 22:37:14.666887 [DEBUG]: /assets/fonts/font-awesome.min.css
+2023-09-27 22:37:14.666920 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/fonts/font-awesome.min.css
+2023-09-27 22:37:14.666956 [DEBUG]: filesize:31000, 2  to 31086
+2023-09-27 22:37:14.667098 [INFO] : Client[11] quit!
+2023-09-27 22:37:14.667205 [INFO] : Client[11](183.210.8.8:65304) quit, UserCount:1
+2023-09-27 22:37:14.670180 [INFO] : Client[11](183.210.8.8:25) in, userCount:2
+2023-09-27 22:37:14.670242 [INFO] : Client[11] in!
+2023-09-27 22:37:14.671002 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:37:14.671061 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:37:14.671172 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:37:14.671282 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:37:14.671503 [INFO] : Client[11] quit!
+2023-09-27 22:37:14.671575 [INFO] : Client[11](183.210.8.8:25) quit, UserCount:1
+2023-09-27 22:37:14.742755 [INFO] : Client[11](183.210.8.8:281) in, userCount:2
+2023-09-27 22:37:14.744695 [INFO] : Client[11] in!
+2023-09-27 22:37:14.745416 [DEBUG]: [GET], [/assets/js/grayscale.js], [1.1]
+2023-09-27 22:37:14.745581 [DEBUG]: /assets/js/grayscale.js
+2023-09-27 22:37:14.745697 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/js/grayscale.js
+2023-09-27 22:37:14.745783 [DEBUG]: filesize:1201, 2  to 1293
+2023-09-27 22:37:14.745885 [INFO] : Client[11] quit!
+2023-09-27 22:37:14.745978 [INFO] : Client[11](183.210.8.8:281) quit, UserCount:1
+2023-09-27 22:37:14.875404 [INFO] : Client[10] quit!
+2023-09-27 22:37:14.875666 [INFO] : Client[10](183.210.8.8:65048) quit, UserCount:0
+2023-09-27 22:37:15.133683 [INFO] : Client[10](183.210.8.8:537) in, userCount:1
+2023-09-27 22:37:15.133946 [INFO] : Client[10] in!
+2023-09-27 22:37:15.134643 [DEBUG]: [GET], [/assets/img/intro-bg.jpg], [1.1]
+2023-09-27 22:37:15.134820 [DEBUG]: /assets/img/intro-bg.jpg
+2023-09-27 22:37:15.134870 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/intro-bg.jpg
+2023-09-27 22:37:15.134907 [DEBUG]: filesize:88321, 2  to 88408
+2023-09-27 22:37:15.135128 [INFO] : Client[10] quit!
+2023-09-27 22:37:15.135316 [INFO] : Client[11](183.210.8.8:793) in, userCount:2
+2023-09-27 22:37:15.135366 [INFO] : Client[10](183.210.8.8:537) quit, UserCount:1
+2023-09-27 22:37:15.135380 [INFO] : Client[11] in!
+2023-09-27 22:37:15.136144 [DEBUG]: [GET], [/assets/img/downloads-bg.jpg], [1.1]
+2023-09-27 22:37:15.136172 [DEBUG]: /assets/img/downloads-bg.jpg
+2023-09-27 22:37:15.136194 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/downloads-bg.jpg
+2023-09-27 22:37:15.136219 [DEBUG]: filesize:110981, 2  to 111069
+2023-09-27 22:37:15.136383 [INFO] : Client[11] quit!
+2023-09-27 22:37:15.136494 [INFO] : Client[11](183.210.8.8:793) quit, UserCount:0
+2023-09-27 22:37:15.140173 [INFO] : Client[10](183.210.8.8:1049) in, userCount:1
+2023-09-27 22:37:15.140244 [INFO] : Client[10] in!
+2023-09-27 22:37:15.141514 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff2?v=4.7.0], [1.1]
+2023-09-27 22:37:15.141572 [DEBUG]: /assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+2023-09-27 22:37:15.141601 [DEBUG]: filesize:0, 1  to 217
+2023-09-27 22:37:15.141655 [INFO] : Client[10] quit!
+2023-09-27 22:37:15.141731 [INFO] : Client[10](183.210.8.8:1049) quit, UserCount:0
+2023-09-27 22:37:15.196931 [INFO] : Client[10](183.210.8.8:1305) in, userCount:1
+2023-09-27 22:37:15.197158 [INFO] : Client[10] in!
+2023-09-27 22:37:15.197790 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff?v=4.7.0], [1.1]
+2023-09-27 22:37:15.197829 [DEBUG]: /assets/fonts/fontawesome-webfont.woff?v=4.7.0
+2023-09-27 22:37:15.197990 [DEBUG]: filesize:0, 1  to 217
+2023-09-27 22:37:15.198139 [INFO] : Client[10] quit!
+2023-09-27 22:37:15.198183 [INFO] : Client[10](183.210.8.8:1305) quit, UserCount:0
+2023-09-27 22:37:15.295001 [INFO] : Client[10](183.210.8.8:1561) in, userCount:1
+2023-09-27 22:37:15.295287 [INFO] : Client[10] in!
+2023-09-27 22:37:15.295964 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.ttf?v=4.7.0], [1.1]
+2023-09-27 22:37:15.296081 [DEBUG]: /assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+2023-09-27 22:37:15.296137 [DEBUG]: filesize:0, 1  to 217
+2023-09-27 22:37:15.296270 [INFO] : Client[10] quit!
+2023-09-27 22:37:15.296366 [INFO] : Client[10](183.210.8.8:1561) quit, UserCount:0
+2023-09-27 22:37:16.472144 [INFO] : Client[10](183.210.8.8:2329) in, userCount:1
+2023-09-27 22:37:16.472439 [INFO] : Client[10] in!
+2023-09-27 22:37:16.473072 [DEBUG]: [GET], [/login.html], [1.1]
+2023-09-27 22:37:16.473213 [DEBUG]: /login.html
+2023-09-27 22:37:16.473253 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//login.html
+2023-09-27 22:37:16.473283 [DEBUG]: filesize:1790, 2  to 1875
+2023-09-27 22:37:16.473356 [INFO] : Client[10] quit!
+2023-09-27 22:37:16.473506 [INFO] : Client[10](183.210.8.8:2329) quit, UserCount:0
+2023-09-27 22:37:16.538459 [INFO] : Client[10](183.210.8.8:2585) in, userCount:1
+2023-09-27 22:37:16.538530 [INFO] : Client[10] in!
+2023-09-27 22:37:16.539353 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:37:16.539410 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:37:16.539579 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:37:16.539655 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-27 22:37:16.548300 [INFO] : Client[11](183.210.8.8:2841) in, userCount:2
+2023-09-27 22:37:16.548381 [INFO] : Client[11] in!
+2023-09-27 22:37:16.549010 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-27 22:37:16.549063 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-27 22:37:16.549180 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/death-stranding-1.jpg
+2023-09-27 22:37:16.549226 [DEBUG]: filesize:270907, 2  to 270995
+2023-09-27 22:37:17.108551 [INFO] : Client[11] quit!
+2023-09-27 22:37:17.108849 [INFO] : Client[11](183.210.8.8:2841) quit, UserCount:1
+2023-09-27 22:37:17.141074 [INFO] : Client[10] quit!
+2023-09-27 22:37:17.141308 [INFO] : Client[10](183.210.8.8:2585) quit, UserCount:0
+2023-09-27 22:37:17.597797 [INFO] : Client[10](183.210.8.8:3097) in, userCount:1
+2023-09-27 22:37:17.597871 [INFO] : Client[10] in!
+2023-09-27 22:37:17.598499 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:37:17.598553 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:37:17.598602 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:37:17.598629 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:37:17.599004 [INFO] : Client[10] quit!
+2023-09-27 22:37:17.599199 [INFO] : Client[10](183.210.8.8:3097) quit, UserCount:0
+2023-09-27 22:37:20.871148 [INFO] : Client[10](183.210.8.8:3353) in, userCount:1
+2023-09-27 22:37:20.871251 [INFO] : Client[10] in!
+2023-09-27 22:37:20.872197 [DEBUG]: [POST], [/login.html], [1.1]
+2023-09-27 22:37:20.872341 [DEBUG]: /login.html
+2023-09-27 22:37:20.872422 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//login.html
+2023-09-27 22:37:20.872535 [DEBUG]: filesize:1790, 2  to 1875
+2023-09-27 22:37:20.872690 [INFO] : Client[10] quit!
+2023-09-27 22:37:20.872834 [INFO] : Client[10](183.210.8.8:3353) quit, UserCount:0
+2023-09-27 22:37:20.951585 [INFO] : Client[10](183.210.8.8:4121) in, userCount:1
+2023-09-27 22:37:20.951669 [INFO] : Client[10] in!
+2023-09-27 22:37:20.952244 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-27 22:37:20.952316 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-27 22:37:20.952327 [INFO] : Client[11](183.210.8.8:3609) in, userCount:2
+2023-09-27 22:37:20.952343 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/death-stranding-1.jpg
+2023-09-27 22:37:20.952400 [DEBUG]: filesize:270907, 2  to 270995
+2023-09-27 22:37:20.952524 [INFO] : Client[11] in!
+2023-09-27 22:37:20.953130 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:37:20.953170 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:37:20.953213 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:37:20.953255 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-27 22:37:20.955247 [INFO] : Client[12](183.210.8.8:3865) in, userCount:3
+2023-09-27 22:37:20.955408 [INFO] : Client[12] in!
+2023-09-27 22:37:20.956123 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:37:20.956225 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:37:20.956322 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:37:20.956419 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:37:20.956590 [INFO] : Client[12] quit!
+2023-09-27 22:37:20.956759 [INFO] : Client[12](183.210.8.8:3865) quit, UserCount:2
+2023-09-27 22:37:21.483363 [INFO] : Client[10] quit!
+2023-09-27 22:37:21.483494 [INFO] : Client[10](183.210.8.8:4121) quit, UserCount:1
+2023-09-27 22:37:21.533909 [INFO] : Client[11] quit!
+2023-09-27 22:37:21.534180 [INFO] : Client[11](183.210.8.8:3609) quit, UserCount:0
+2023-09-27 22:37:24.417732 [INFO] : Client[10](183.210.8.8:12825) in, userCount:1
+2023-09-27 22:37:24.417801 [INFO] : Client[10] in!
+2023-09-27 22:37:24.418627 [DEBUG]: [POST], [/login.html], [1.1]
+2023-09-27 22:37:24.418681 [DEBUG]: /login.html
+2023-09-27 22:37:24.418724 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//login.html
+2023-09-27 22:37:24.418746 [DEBUG]: filesize:1790, 2  to 1875
+2023-09-27 22:37:24.418891 [INFO] : Client[10] quit!
+2023-09-27 22:37:24.418944 [INFO] : Client[10](183.210.8.8:12825) quit, UserCount:0
+2023-09-27 22:37:24.482921 [INFO] : Client[10](183.210.8.8:13081) in, userCount:1
+2023-09-27 22:37:24.483025 [INFO] : Client[10] in!
+2023-09-27 22:37:24.483663 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:37:24.483706 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:37:24.483736 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:37:24.483762 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-27 22:37:24.493011 [INFO] : Client[11](183.210.8.8:13337) in, userCount:2
+2023-09-27 22:37:24.493096 [INFO] : Client[11] in!
+2023-09-27 22:37:24.493744 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:37:24.493792 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:37:24.493825 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:37:24.493857 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:37:24.494072 [INFO] : Client[11] quit!
+2023-09-27 22:37:24.494164 [INFO] : Client[11](183.210.8.8:13337) quit, UserCount:1
+2023-09-27 22:37:24.696008 [INFO] : Client[10] quit!
+2023-09-27 22:37:24.696107 [INFO] : Client[10](183.210.8.8:13081) quit, UserCount:0
+2023-09-27 22:37:24.814673 [INFO] : Client[10](183.210.8.8:13593) in, userCount:1
+2023-09-27 22:37:24.814794 [INFO] : Client[10] in!
+2023-09-27 22:37:24.815347 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-27 22:37:24.815489 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-27 22:37:24.815583 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/death-stranding-1.jpg
+2023-09-27 22:37:24.815699 [DEBUG]: filesize:270907, 2  to 270995
+2023-09-27 22:37:26.457392 [INFO] : Client[10] quit!
+2023-09-27 22:37:26.457753 [INFO] : Client[10](183.210.8.8:13593) quit, UserCount:0
+2023-09-27 22:37:29.162727 [INFO] : Client[10](183.210.8.8:14617) in, userCount:1
+2023-09-27 22:37:29.162964 [INFO] : Client[10] in!
+2023-09-27 22:37:29.163781 [DEBUG]: [POST], [/login.html], [1.1]
+2023-09-27 22:37:29.163819 [DEBUG]: /login.html
+2023-09-27 22:37:29.163852 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//login.html
+2023-09-27 22:37:29.163880 [DEBUG]: filesize:1790, 2  to 1875
+2023-09-27 22:37:29.164016 [INFO] : Client[10] quit!
+2023-09-27 22:37:29.164082 [INFO] : Client[10](183.210.8.8:14617) quit, UserCount:0
+2023-09-27 22:37:29.226171 [INFO] : Client[10](183.210.8.8:15129) in, userCount:1
+2023-09-27 22:37:29.226273 [INFO] : Client[10] in!
+2023-09-27 22:37:29.226959 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:37:29.227012 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:37:29.227047 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:37:29.227098 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:37:29.227292 [INFO] : Client[10] quit!
+2023-09-27 22:37:29.227346 [INFO] : Client[10](183.210.8.8:15129) quit, UserCount:0
+2023-09-27 22:37:29.242997 [INFO] : Client[10](183.210.8.8:14873) in, userCount:1
+2023-09-27 22:37:29.243120 [INFO] : Client[10] in!
+2023-09-27 22:37:29.243731 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:37:29.243781 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:37:29.243812 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:37:29.243853 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-27 22:37:29.846265 [INFO] : Client[10] quit!
+2023-09-27 22:37:29.846391 [INFO] : Client[10](183.210.8.8:14873) quit, UserCount:0
+2023-09-27 22:37:29.992661 [INFO] : Client[10](183.210.8.8:15385) in, userCount:1
+2023-09-27 22:37:29.992766 [INFO] : Client[10] in!
+2023-09-27 22:37:29.993483 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-27 22:37:29.993535 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-27 22:37:29.993581 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/death-stranding-1.jpg
+2023-09-27 22:37:29.993618 [DEBUG]: filesize:270907, 2  to 270995
+2023-09-27 22:37:31.429332 [INFO] : Client[10] quit!
+2023-09-27 22:37:31.429463 [INFO] : Client[10](183.210.8.8:15385) quit, UserCount:0
+2023-09-27 22:37:33.746634 [INFO] : Client[13] quit!
+2023-09-27 22:37:35.232476 [INFO] : Client[10](183.210.8.8:15897) in, userCount:1
+2023-09-27 22:37:35.232579 [INFO] : Client[10] in!
+2023-09-27 22:37:35.233566 [DEBUG]: [POST], [/login.html], [1.1]
+2023-09-27 22:37:35.233608 [DEBUG]: /login.html
+2023-09-27 22:37:35.233635 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//login.html
+2023-09-27 22:37:35.233656 [DEBUG]: filesize:1790, 2  to 1875
+2023-09-27 22:37:35.233785 [INFO] : Client[10] quit!
+2023-09-27 22:37:35.233833 [INFO] : Client[10](183.210.8.8:15897) quit, UserCount:0
+2023-09-27 22:37:35.316282 [INFO] : Client[10](183.210.8.8:16153) in, userCount:1
+2023-09-27 22:37:35.316365 [INFO] : Client[10] in!
+2023-09-27 22:37:35.317104 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:37:35.317159 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:37:35.317185 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:37:35.317213 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-27 22:37:35.322641 [INFO] : Client[11](183.210.8.8:16409) in, userCount:2
+2023-09-27 22:37:35.322724 [INFO] : Client[11] in!
+2023-09-27 22:37:35.323877 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:37:35.324050 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:37:35.324198 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:37:35.324305 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:37:35.324515 [INFO] : Client[11] quit!
+2023-09-27 22:37:35.324586 [INFO] : Client[11](183.210.8.8:16409) quit, UserCount:1
+2023-09-27 22:37:35.529775 [INFO] : Client[10] quit!
+2023-09-27 22:37:35.529896 [INFO] : Client[10](183.210.8.8:16153) quit, UserCount:0
+2023-09-27 22:37:35.642831 [INFO] : Client[10](183.210.8.8:16665) in, userCount:1
+2023-09-27 22:37:35.642950 [INFO] : Client[10] in!
+2023-09-27 22:37:35.643548 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-27 22:37:35.643701 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-27 22:37:35.643759 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/death-stranding-1.jpg
+2023-09-27 22:37:35.643797 [DEBUG]: filesize:270907, 2  to 270995
+2023-09-27 22:37:36.976560 [INFO] : Client[10] quit!
+2023-09-27 22:37:36.976899 [INFO] : Client[10](183.210.8.8:16665) quit, UserCount:0
+2023-09-27 22:37:40.206036 [INFO] : Client[10](183.210.8.8:17945) in, userCount:1
+2023-09-27 22:37:40.206158 [INFO] : Client[10] in!
+2023-09-27 22:37:40.207614 [DEBUG]: username = zpaa
+2023-09-27 22:37:40.207693 [DEBUG]: Tag:1
+2023-09-27 22:37:40.207710 [INFO] : Verify name:zpaa pwd:123456
+2023-09-27 22:37:40.207721 [DEBUG]: SELECT username, password FROM user WHERE username='zpaa' LIMIT 1
+2023-09-27 22:37:40.208483 [DEBUG]: MYSQL ROW: zpaa 123456
+2023-09-27 22:37:40.208534 [DEBUG]: UserVerify success!!
+2023-09-27 22:37:40.208546 [DEBUG]: Body:username=zpaa&password=123456, len:29
+2023-09-27 22:37:40.208555 [DEBUG]: [POST], [/welcome.html], [1.1]
+2023-09-27 22:37:40.208564 [DEBUG]: /welcome.html
+2023-09-27 22:37:40.208594 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//welcome.html
+2023-09-27 22:37:40.208617 [DEBUG]: filesize:3831, 2  to 3916
+2023-09-27 22:37:40.208719 [INFO] : Client[10] quit!
+2023-09-27 22:37:40.208784 [INFO] : Client[10](183.210.8.8:17945) quit, UserCount:0
+2023-09-27 22:37:40.333599 [INFO] : Client[10](183.210.8.8:18201) in, userCount:1
+2023-09-27 22:37:40.333701 [INFO] : Client[10] in!
+2023-09-27 22:37:40.334378 [DEBUG]: [GET], [/weassets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:37:40.334523 [DEBUG]: /weassets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:37:40.334578 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//weassets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:37:40.334627 [DEBUG]: filesize:244420, 2  to 244507
+2023-09-27 22:37:40.336407 [INFO] : Client[11](183.210.8.8:18713) in, userCount:2
+2023-09-27 22:37:40.336482 [INFO] : Client[11] in!
+2023-09-27 22:37:40.336889 [INFO] : Client[12](183.210.8.8:18457) in, userCount:3
+2023-09-27 22:37:40.336946 [INFO] : Client[12] in!
+2023-09-27 22:37:40.337221 [DEBUG]: [GET], [/weassets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:37:40.337251 [DEBUG]: /weassets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:37:40.337341 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//weassets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:37:40.337386 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:37:40.338156 [DEBUG]: [GET], [/weassets/fonts/font-awesome.min.css], [1.1]
+2023-09-27 22:37:40.338272 [DEBUG]: /weassets/fonts/font-awesome.min.css
+2023-09-27 22:37:40.338412 [INFO] : Client[14](183.210.8.8:18969) in, userCount:4
+2023-09-27 22:37:40.338451 [INFO] : Client[14] in!
+2023-09-27 22:37:40.338331 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//weassets/fonts/font-awesome.min.css
+2023-09-27 22:37:40.338766 [INFO] : Client[11] quit!
+2023-09-27 22:37:40.338828 [INFO] : Client[11](183.210.8.8:18713) quit, UserCount:3
+2023-09-27 22:37:40.339020 [DEBUG]: filesize:31000, 2  to 31086
+2023-09-27 22:37:40.339152 [INFO] : Client[12] quit!
+2023-09-27 22:37:40.339229 [INFO] : Client[12](183.210.8.8:18457) quit, UserCount:2
+2023-09-27 22:37:40.340295 [DEBUG]: [GET], [/weassets/js/clean-blog.js], [1.1]
+2023-09-27 22:37:40.340335 [DEBUG]: /weassets/js/clean-blog.js
+2023-09-27 22:37:40.340478 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//weassets/js/clean-blog.js
+2023-09-27 22:37:40.340611 [DEBUG]: filesize:1173, 2  to 1265
+2023-09-27 22:37:40.340853 [INFO] : Client[14] quit!
+2023-09-27 22:37:40.341008 [INFO] : Client[14](183.210.8.8:18969) quit, UserCount:1
+2023-09-27 22:37:40.497850 [INFO] : Client[10] quit!
+2023-09-27 22:37:40.498017 [INFO] : Client[10](183.210.8.8:18201) quit, UserCount:0
+2023-09-27 22:37:40.608403 [INFO] : Client[10](183.210.8.8:19481) in, userCount:1
+2023-09-27 22:37:40.608517 [INFO] : Client[10] in!
+2023-09-27 22:37:40.609687 [DEBUG]: [GET], [/weassets/img/home-bg.jpg], [1.1]
+2023-09-27 22:37:40.609758 [DEBUG]: /weassets/img/home-bg.jpg
+2023-09-27 22:37:40.609801 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//weassets/img/home-bg.jpg
+2023-09-27 22:37:40.609857 [DEBUG]: filesize:106050, 2  to 106138
+2023-09-27 22:37:40.610216 [INFO] : Client[10] quit!
+2023-09-27 22:37:40.610395 [INFO] : Client[10](183.210.8.8:19481) quit, UserCount:0
+2023-09-27 22:37:45.728180 [INFO] : Client[10](183.210.8.8:20505) in, userCount:1
+2023-09-27 22:37:45.728279 [INFO] : Client[10] in!
+2023-09-27 22:37:45.729052 [DEBUG]: [GET], [/index.html], [1.1]
+2023-09-27 22:37:45.729079 [DEBUG]: /index.html
+2023-09-27 22:37:45.729102 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//index.html
+2023-09-27 22:37:45.729123 [DEBUG]: filesize:5211, 2  to 5296
+2023-09-27 22:37:45.729231 [INFO] : Client[10] quit!
+2023-09-27 22:37:45.729325 [INFO] : Client[10](183.210.8.8:20505) quit, UserCount:0
+2023-09-27 22:37:45.789143 [INFO] : Client[10](183.210.8.8:20761) in, userCount:1
+2023-09-27 22:37:45.789235 [INFO] : Client[10] in!
+2023-09-27 22:37:45.789930 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:37:45.789968 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:37:45.790009 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:37:45.790049 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-27 22:37:45.792873 [INFO] : Client[11](183.210.8.8:21017) in, userCount:2
+2023-09-27 22:37:45.792941 [INFO] : Client[11] in!
+2023-09-27 22:37:45.793594 [DEBUG]: [GET], [/assets/fonts/font-awesome.min.css], [1.1]
+2023-09-27 22:37:45.793632 [DEBUG]: /assets/fonts/font-awesome.min.css
+2023-09-27 22:37:45.793661 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/fonts/font-awesome.min.css
+2023-09-27 22:37:45.793695 [DEBUG]: filesize:31000, 2  to 31086
+2023-09-27 22:37:45.793825 [INFO] : Client[11] quit!
+2023-09-27 22:37:45.793917 [INFO] : Client[11](183.210.8.8:21017) quit, UserCount:1
+2023-09-27 22:37:45.811310 [INFO] : Client[11](183.210.8.8:21529) in, userCount:2
+2023-09-27 22:37:45.811545 [INFO] : Client[11] in!
+2023-09-27 22:37:45.811593 [INFO] : Client[12](183.210.8.8:21273) in, userCount:3
+2023-09-27 22:37:45.811611 [INFO] : Client[12] in!
+2023-09-27 22:37:45.812423 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:37:45.812821 [DEBUG]: [GET], [/assets/js/grayscale.js], [1.1]
+2023-09-27 22:37:45.812828 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:37:45.812997 [DEBUG]: /assets/js/grayscale.js
+2023-09-27 22:37:45.813113 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:37:45.813218 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:37:45.813113 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/js/grayscale.js
+2023-09-27 22:37:45.813420 [INFO] : Client[11] quit!
+2023-09-27 22:37:45.813509 [INFO] : Client[11](183.210.8.8:21529) quit, UserCount:2
+2023-09-27 22:37:45.813423 [DEBUG]: filesize:1201, 2  to 1293
+2023-09-27 22:37:45.813797 [INFO] : Client[12] quit!
+2023-09-27 22:37:45.813865 [INFO] : Client[12](183.210.8.8:21273) quit, UserCount:1
+2023-09-27 22:37:45.956017 [INFO] : Client[10] quit!
+2023-09-27 22:37:45.956153 [INFO] : Client[10](183.210.8.8:20761) quit, UserCount:0
+2023-09-27 22:37:46.063757 [INFO] : Client[10](183.210.8.8:22297) in, userCount:1
+2023-09-27 22:37:46.064025 [INFO] : Client[10] in!
+2023-09-27 22:37:46.064811 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff2?v=4.7.0], [1.1]
+2023-09-27 22:37:46.064861 [DEBUG]: /assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+2023-09-27 22:37:46.064898 [DEBUG]: filesize:0, 1  to 217
+2023-09-27 22:37:46.064947 [INFO] : Client[10] quit!
+2023-09-27 22:37:46.064994 [INFO] : Client[10](183.210.8.8:22297) quit, UserCount:0
+2023-09-27 22:37:46.066257 [INFO] : Client[10](183.210.8.8:21785) in, userCount:1
+2023-09-27 22:37:46.066311 [INFO] : Client[10] in!
+2023-09-27 22:37:46.066517 [INFO] : Client[11](183.210.8.8:22041) in, userCount:2
+2023-09-27 22:37:46.066608 [INFO] : Client[11] in!
+2023-09-27 22:37:46.067198 [DEBUG]: [GET], [/assets/img/intro-bg.jpg], [1.1]
+2023-09-27 22:37:46.067237 [DEBUG]: /assets/img/intro-bg.jpg
+2023-09-27 22:37:46.067277 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/intro-bg.jpg
+2023-09-27 22:37:46.067318 [DEBUG]: filesize:88321, 2  to 88408
+2023-09-27 22:37:46.067455 [INFO] : Client[10] quit!
+2023-09-27 22:37:46.067531 [INFO] : Client[10](183.210.8.8:21785) quit, UserCount:1
+2023-09-27 22:37:46.067911 [DEBUG]: [GET], [/assets/img/downloads-bg.jpg], [1.1]
+2023-09-27 22:37:46.068079 [DEBUG]: /assets/img/downloads-bg.jpg
+2023-09-27 22:37:46.068297 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/downloads-bg.jpg
+2023-09-27 22:37:46.068473 [DEBUG]: filesize:110981, 2  to 111069
+2023-09-27 22:37:46.068632 [INFO] : Client[11] quit!
+2023-09-27 22:37:46.068711 [INFO] : Client[11](183.210.8.8:22041) quit, UserCount:0
+2023-09-27 22:37:46.110810 [INFO] : Client[10](183.210.8.8:22553) in, userCount:1
+2023-09-27 22:37:46.110921 [INFO] : Client[10] in!
+2023-09-27 22:37:46.111940 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.woff?v=4.7.0], [1.1]
+2023-09-27 22:37:46.112004 [DEBUG]: /assets/fonts/fontawesome-webfont.woff?v=4.7.0
+2023-09-27 22:37:46.112174 [DEBUG]: filesize:0, 1  to 217
+2023-09-27 22:37:46.112394 [INFO] : Client[10] quit!
+2023-09-27 22:37:46.112630 [INFO] : Client[10](183.210.8.8:22553) quit, UserCount:0
+2023-09-27 22:37:46.172123 [INFO] : Client[10](183.210.8.8:22809) in, userCount:1
+2023-09-27 22:37:46.172208 [INFO] : Client[10] in!
+2023-09-27 22:37:46.173008 [DEBUG]: [GET], [/assets/fonts/fontawesome-webfont.ttf?v=4.7.0], [1.1]
+2023-09-27 22:37:46.173191 [DEBUG]: /assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+2023-09-27 22:37:46.173327 [DEBUG]: filesize:0, 1  to 217
+2023-09-27 22:37:46.173474 [INFO] : Client[10] quit!
+2023-09-27 22:37:46.173603 [INFO] : Client[10](183.210.8.8:22809) quit, UserCount:0
+2023-09-27 22:37:58.751705 [INFO] : Client[10](183.210.8.8:26137) in, userCount:1
+2023-09-27 22:37:58.751778 [INFO] : Client[10] in!
+2023-09-27 22:37:58.752725 [DEBUG]: [GET], [/login.html], [1.1]
+2023-09-27 22:37:58.752820 [DEBUG]: /login.html
+2023-09-27 22:37:58.752877 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//login.html
+2023-09-27 22:37:58.752917 [DEBUG]: filesize:1790, 2  to 1875
+2023-09-27 22:37:58.753023 [INFO] : Client[10] quit!
+2023-09-27 22:37:58.753064 [INFO] : Client[10](183.210.8.8:26137) quit, UserCount:0
+2023-09-27 22:37:58.816514 [INFO] : Client[10](183.210.8.8:26393) in, userCount:1
+2023-09-27 22:37:58.816601 [INFO] : Client[10] in!
+2023-09-27 22:37:58.817530 [DEBUG]: [GET], [/assets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:37:58.817728 [DEBUG]: /assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:37:58.817923 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:37:58.818073 [DEBUG]: filesize:242090, 2  to 242177
+2023-09-27 22:37:58.835661 [INFO] : Client[11](183.210.8.8:26649) in, userCount:2
+2023-09-27 22:37:58.835751 [INFO] : Client[11] in!
+2023-09-27 22:37:58.836419 [DEBUG]: [GET], [/assets/img/death-stranding-1.jpg], [1.1]
+2023-09-27 22:37:58.836490 [DEBUG]: /assets/img/death-stranding-1.jpg
+2023-09-27 22:37:58.836538 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/img/death-stranding-1.jpg
+2023-09-27 22:37:58.836594 [DEBUG]: filesize:270907, 2  to 270995
+2023-09-27 22:37:58.862426 [INFO] : Client[12](183.210.8.8:26905) in, userCount:3
+2023-09-27 22:37:58.862526 [INFO] : Client[12] in!
+2023-09-27 22:37:58.863296 [DEBUG]: [GET], [/assets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:37:58.863362 [DEBUG]: /assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:37:58.863403 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//assets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:37:58.863444 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:37:58.863602 [INFO] : Client[12] quit!
+2023-09-27 22:37:58.863708 [INFO] : Client[12](183.210.8.8:26905) quit, UserCount:2
+2023-09-27 22:37:58.921484 [INFO] : Client[10] quit!
+2023-09-27 22:37:58.921620 [INFO] : Client[10](183.210.8.8:26393) quit, UserCount:1
+2023-09-27 22:37:59.356630 [INFO] : Client[11] quit!
+2023-09-27 22:37:59.356842 [INFO] : Client[11](183.210.8.8:26649) quit, UserCount:0
+2023-09-27 22:38:02.262646 [INFO] : Client[10](183.210.8.8:28953) in, userCount:1
+2023-09-27 22:38:02.262777 [INFO] : Client[10] in!
+2023-09-27 22:38:02.263838 [DEBUG]: username = zpaa
+2023-09-27 22:38:02.263905 [DEBUG]: Tag:1
+2023-09-27 22:38:02.263923 [INFO] : Verify name:zpaa pwd:123456
+2023-09-27 22:38:02.263931 [DEBUG]: SELECT username, password FROM user WHERE username='zpaa' LIMIT 1
+2023-09-27 22:38:02.264467 [DEBUG]: MYSQL ROW: zpaa 123456
+2023-09-27 22:38:02.264504 [DEBUG]: UserVerify success!!
+2023-09-27 22:38:02.264512 [DEBUG]: Body:username=zpaa&password=123456, len:29
+2023-09-27 22:38:02.264519 [DEBUG]: [POST], [/welcome.html], [1.1]
+2023-09-27 22:38:02.264525 [DEBUG]: /welcome.html
+2023-09-27 22:38:02.264547 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//welcome.html
+2023-09-27 22:38:02.264565 [DEBUG]: filesize:3831, 2  to 3916
+2023-09-27 22:38:02.264647 [INFO] : Client[10] quit!
+2023-09-27 22:38:02.264716 [INFO] : Client[10](183.210.8.8:28953) quit, UserCount:0
+2023-09-27 22:38:02.341186 [INFO] : Client[10](183.210.8.8:29209) in, userCount:1
+2023-09-27 22:38:02.341387 [INFO] : Client[10] in!
+2023-09-27 22:38:02.341941 [DEBUG]: [GET], [/weassets/bootstrap/css/bootstrap.min.css], [1.1]
+2023-09-27 22:38:02.341998 [DEBUG]: /weassets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:38:02.342039 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//weassets/bootstrap/css/bootstrap.min.css
+2023-09-27 22:38:02.342079 [DEBUG]: filesize:244420, 2  to 244507
+2023-09-27 22:38:02.343191 [INFO] : Client[11](183.210.8.8:29465) in, userCount:2
+2023-09-27 22:38:02.343263 [INFO] : Client[11] in!
+2023-09-27 22:38:02.343850 [DEBUG]: [GET], [/weassets/fonts/font-awesome.min.css], [1.1]
+2023-09-27 22:38:02.343898 [DEBUG]: /weassets/fonts/font-awesome.min.css
+2023-09-27 22:38:02.344053 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//weassets/fonts/font-awesome.min.css
+2023-09-27 22:38:02.344085 [DEBUG]: filesize:31000, 2  to 31086
+2023-09-27 22:38:02.344256 [INFO] : Client[11] quit!
+2023-09-27 22:38:02.344332 [INFO] : Client[11](183.210.8.8:29465) quit, UserCount:1
+2023-09-27 22:38:02.345579 [INFO] : Client[11](183.210.8.8:29977) in, userCount:2
+2023-09-27 22:38:02.345627 [INFO] : Client[11] in!
+2023-09-27 22:38:02.346322 [DEBUG]: [GET], [/weassets/js/clean-blog.js], [1.1]
+2023-09-27 22:38:02.346474 [DEBUG]: /weassets/js/clean-blog.js
+2023-09-27 22:38:02.346593 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//weassets/js/clean-blog.js
+2023-09-27 22:38:02.346693 [DEBUG]: filesize:1173, 2  to 1265
+2023-09-27 22:38:02.347001 [INFO] : Client[11] quit!
+2023-09-27 22:38:02.347081 [INFO] : Client[11](183.210.8.8:29977) quit, UserCount:1
+2023-09-27 22:38:02.352450 [INFO] : Client[11](183.210.8.8:29721) in, userCount:2
+2023-09-27 22:38:02.352514 [INFO] : Client[11] in!
+2023-09-27 22:38:02.353324 [DEBUG]: [GET], [/weassets/bootstrap/js/bootstrap.min.js], [1.1]
+2023-09-27 22:38:02.353509 [DEBUG]: /weassets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:38:02.353695 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//weassets/bootstrap/js/bootstrap.min.js
+2023-09-27 22:38:02.353879 [DEBUG]: filesize:80620, 2  to 80713
+2023-09-27 22:38:02.354156 [INFO] : Client[11] quit!
+2023-09-27 22:38:02.354231 [INFO] : Client[11](183.210.8.8:29721) quit, UserCount:1
+2023-09-27 22:38:02.541914 [INFO] : Client[10] quit!
+2023-09-27 22:38:02.542224 [INFO] : Client[10](183.210.8.8:29209) quit, UserCount:0
+2023-09-27 22:38:02.655585 [INFO] : Client[10](183.210.8.8:30233) in, userCount:1
+2023-09-27 22:38:02.655716 [INFO] : Client[10] in!
+2023-09-27 22:38:02.656746 [DEBUG]: [GET], [/weassets/img/home-bg.jpg], [1.1]
+2023-09-27 22:38:02.657015 [DEBUG]: /weassets/img/home-bg.jpg
+2023-09-27 22:38:02.657163 [DEBUG]: file path /home/ubuntu/zp/MyBlog/resources//weassets/img/home-bg.jpg
+2023-09-27 22:38:02.657314 [DEBUG]: filesize:106050, 2  to 106138
+2023-09-27 22:38:02.657565 [INFO] : Client[10] quit!
+2023-09-27 22:38:02.657642 [INFO] : Client[10](183.210.8.8:30233) quit, UserCount:0
+2023-09-27 22:38:07.211946 [INFO] : Client[15] quit!
+2023-09-27 22:38:40.369029 [INFO] : Client[14] quit!
+2023-09-27 22:38:58.877794 [INFO] : Client[12] quit!
+2023-09-27 22:39:02.356392 [INFO] : Client[11] quit!
