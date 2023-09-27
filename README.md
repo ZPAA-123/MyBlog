@@ -11,3 +11,18 @@
 4.基于小根堆实现的定时器，关闭超时的非活动连接
 5.利用单例模式与阻塞队列实现异步的日志系统，记录服务器运行状态
 6.利用RAII机制实现了数据库连接池，减少数据库连接建立与关闭的开销.
+
+# 数据库构建
+
+// 建立yourdb库
+create database yourdb;
+
+// 创建user表
+USE yourdb;
+CREATE TABLE user(
+    username char(50) NULL,
+    password char(50) NULL
+)ENGINE=InnoDB;
+
+// 添加数据
+INSERT INTO user(username, password) VALUES('name', 'password');
